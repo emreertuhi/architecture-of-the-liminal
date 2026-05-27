@@ -4,6 +4,10 @@
 
 https://github.com/emreertuhi/architecture-of-the-liminal
 
+**Academic companion essay DOI:**
+
+https://doi.org/10.5281/zenodo.20369747
+
 ## What this is for
 
 Here, "Codex" means a compiled literary-philosophical threshold work. It does not mean executable code, an AI agent protocol, a software model, a policy toolkit, a reproducible computational system, or a reference to OpenAI Codex.
@@ -29,6 +33,12 @@ The Covenant is not a prompt library. A prompt library says, *do this.* A constr
 The bridge between the human and machine routes is the same structural blind spot. The work also names a related danger: assistance can become occupation when help solves the immediate problem by taking over the judgment it should return. A person asks a model to draft the angry message. The person is captured by impulse; the model is captured by continuation pressure. Together they may lose the interval before action. The work names this shared architectural risk as pre-action capture. The answer is not to abolish action or to worship delay. It is to make action pass through a form that can remain answerable, and to leave that form when it starts serving itself.
 
 This work will not help someone looking for certainty, speed, a guru, a doctrine, a conspiracy map, or a system prompt. It may help someone who wants to notice automatic motion before it becomes harm, and it may help a builder notice when a machine has polished a frame instead of examining it.
+
+## Citation
+
+For the academic companion essay, cite:
+
+`Ertuhi, E. (2026). Reconstructive Threshold Philosophy: Pre-Action Capture, Living Constraint, and Founder Entropy (v13.3.3). Zenodo. https://doi.org/10.5281/zenodo.20369747`
 
 ## Authorship and process
 
