@@ -10,6 +10,12 @@ May 2026
 
 **Public release version: v13.3.3**
 
+**Zenodo DOI:** https://doi.org/10.5281/zenodo.20369747
+
+**Recommended citation:**
+
+Ertuhi, E. (2026). *Reconstructive Threshold Philosophy: Pre-Action Capture, Living Constraint, and Founder Entropy* (v13.3.3). Zenodo. https://doi.org/10.5281/zenodo.20369747
+
 ---
 
 ## Abstract
