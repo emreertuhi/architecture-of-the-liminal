@@ -6,6 +6,19 @@ authors:
 version: 13.3.3
 date-released: 2026-05-24
 license: "CC-BY-NC-ND-4.0"
+doi: "10.5281/zenodo.20369747"
 repository-code: "https://github.com/emreertuhi/architecture-of-the-liminal"
 url: "https://github.com/emreertuhi/architecture-of-the-liminal"
-message: "Public reader-tier repository release: heavy_reader, light_reader, academic."
+message: "Public reader-tier repository release: heavy_reader, light_reader, academic. The academic companion essay has a Zenodo DOI record."
+preferred-citation:
+  type: generic
+  title: "Reconstructive Threshold Philosophy: Pre-Action Capture, Living Constraint, and Founder Entropy"
+  authors:
+    - family-names: "Ertuhi"
+      given-names: "Emre"
+  year: 2026
+  date-published: 2026-05-26
+  version: "v13.3.3"
+  publisher: "Zenodo"
+  doi: "10.5281/zenodo.20369747"
+  url: "https://doi.org/10.5281/zenodo.20369747"
