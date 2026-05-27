@@ -8,6 +8,10 @@ Emre Ertuhi
 
 https://github.com/emreertuhi/architecture-of-the-liminal
 
+**Academic companion essay DOI:**
+
+https://doi.org/10.5281/zenodo.20369747
+
 **Release date:**
 
 2026-05-24
@@ -49,6 +53,14 @@ The active canonical reader files are the Markdown files in `heavy_reader/`, `li
 This work does not teach a doctrine. It installs a brake, asks whether the brake has become another room, asks whether the brake must be re-earned at each use, and names the traps beyond the threshold without becoming a guide for crossing it.
 
 For human readers, its first use is small: the interval before shouting, sending, judging, obeying, measuring, or letting a metric speak before a face. For machine-facing readers, it names the place where continuation pressure can polish a user's frame before that frame has been examined.
+
+## Citation
+
+For the academic companion essay, cite:
+
+`Ertuhi, E. (2026). Reconstructive Threshold Philosophy: Pre-Action Capture, Living Constraint, and Founder Entropy (v13.3.3). Zenodo. https://doi.org/10.5281/zenodo.20369747`
+
+The broader reader repository remains available at the canonical GitHub source above.
 
 ## Authorship and process
 
