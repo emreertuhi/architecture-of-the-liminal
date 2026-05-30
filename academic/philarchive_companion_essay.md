@@ -8,23 +8,27 @@ Independent Researcher; Istanbul, Turkey
 
 May 2026
 
-**Public release version: v13.3.3**
+**Public release version: v13.6.3**
 
-**Zenodo DOI:** https://doi.org/10.5281/zenodo.20369747
+**Zenodo archival DOI (version DOI):** https://doi.org/10.5281/zenodo.20460371
 
 **Recommended citation:**
 
-Ertuhi, E. (2026). *Reconstructive Threshold Philosophy: Pre-Action Capture, Living Constraint, and Founder Entropy* (v13.3.3). Zenodo. https://doi.org/10.5281/zenodo.20369747
+Ertuhi, E. (2026). *Reconstructive Threshold Philosophy: Pre-Action Capture, Living Constraint, and Founder Entropy* (v13.6.3). Zenodo. https://doi.org/10.5281/zenodo.20460371
 
 ---
 
 ## Abstract
 
-This essay argues that action can be captured before judgment has returned. The capture may appear as impulse, habit, institutional command, metric pressure, wound-become-identity, or machine-mediated completion. In each case, a frame becomes operative before the agent, user, institution, or system has examined what the frame authorizes. I call this structure pre-action capture. In structural rather than clinical terms, this capture often behaves like an autoimmune failure: a mechanism built to protect judgment begins to harm what it was meant to protect. The essay's specific contribution is fourfold. First, pre-action capture names a temporal failure of agency: the frame authorizing action becomes operative before the agent has inspected it. Second, reconstructive discipline names the dynamic frame cycle through which understanding is built, held, tested, destroyed, rebuilt, and exposed to outside pressure without becoming a mere method or posture. Third, living brake names a form of constraint that must be re-earned at each decision point because static guardrails can themselves become mechanisms of capture; its somatic model is pulse rather than clock. Fourth, assistance without occupation names the ethical test for help under conditions of speed, automation, and institutional mediation: help remains legitimate only when it returns judgment to the agent rather than occupying the place where judgment should return. Taken together, these claims constitute what this essay provisionally calls a reconstructive threshold philosophy: a bounded account of how agency must be rebuilt at the interval before action without turning the interval into a doctrine, school, or identity. The essay further argues that the same capture operates at civilizational scale: founding intelligence creates living structures that systematize, freeze, and may become the prisons they were built to prevent. The standard responses — permanent revolution, philosopher-kings, and education without self-examination — are limited in ways the thesis helps explain. What remains is not centralized authority but the distributed internalization of threshold capacity. Drawing on Frankfurt on second-order volition, Bourdieu on habitus and practical sense, Dewey on reflective thought, Schön on reflection-in-action, Heidegger on enframing, Illich on convivial tools, Weil on attention, Han on frictionless speed, Fricker on epistemic injustice, and Jonas on responsibility under technological power, the essay argues that constraint is not the opposite of action, but the form through which action can remain answerable. *The Architecture of the Liminal* is treated not as evidence for the thesis, but as a literary-philosophical case study that tests this problem in two registers: a symbolic architecture and a somatic sequence of ordinary scenes.
+This essay argues that action can be captured before judgment has returned. The capture may appear as impulse, habit, institutional command, metric pressure, wound-become-identity, machine-mediated classification, or automated completion. In each case, a frame becomes operative before the agent, user, institution, or system has examined what the frame authorizes. I call this structure **pre-action capture**.
+
+The title names the argument's entry point, central form, and widest consequence — **pre-action capture**, **living constraint**, and **founder entropy** — while the argument's spine is a bounded fourfold architecture rather than a total system: pre-action capture names the failure; reconstructive discipline names the practice by which frames are built, held, tested, destroyed, rebuilt, and exposed to outside pressure; living constraint names the re-earned form through which action can remain answerable; assistance without occupation names the ethical limit of help under conditions of speed, automation, and institutional mediation; and the longest later development is the recursion that tests this spine. The autoimmune image remains central: a mechanism built to protect judgment can begin to harm what it was meant to protect.
+
+The later terms do not replace this architecture. They stress-test it. **Threshold recursion** names the danger that the gate out of one capture becomes the world of the next; its terminal form marks the darker case in which exit is not restoration but transformation into a formation that may become a horizon for others. Material and cognitive conditions show that the interval before action is not evenly available: hunger, debt, exhaustion, metric pressure, institutional dependency, and informational capture can narrow the space in which judgment returns. Machine-mediated dialogue adds a further test: AI systems can provide not only answers but frames, and a user-model exchange can become a game of moves rather than a return to judgment. **Founder entropy** extends the problem after the threshold, when a transformed exit hardens into institution, identity, doctrine, model, or lock. The essay treats *The Architecture of the Liminal* not as evidence for these claims, but as a literary-philosophical case study that tests them in two registers: a symbolic architecture and a somatic sequence of ordinary scenes.
 
 **Keywords:**
 
-pre-action capture; reconstructive threshold philosophy; Reconstructive Threshold Praxis; living brake; re-entrant constraint; dynamic frame cycle; founder entropy; distributed threshold capacity; habitus; attention; epistemic injustice; AI ethics; completion pressure; user-frame laundering; guardrail laundering; assistance without occupation; post-threshold stewardship; philosophy of technology
+pre-action capture; reconstructive discipline; living constraint; living brake; threshold recursion; terminal threshold recursion; assistance without occupation; founder entropy; distributed threshold capacity; material conditions of agency; frame-game capture; AI ethics; epistemic injustice; Reconstructive Threshold Praxis; philosophy of technology
 
 ---
 
@@ -46,6 +50,11 @@ The position developed here may be described, provisionally, as a reconstructive
 
 The full work may be described more broadly as a form of **Reconstructive Threshold Praxis**: not merely a theory of the interval before action, but a practice of rebuilding judgment across body, machine, institution, and inherited founding structures. The distinction matters: the essay names a philosophy; the wider work performs a praxis.
 
+The essay also makes an operational ontological claim. Human and machine-mediated action do not move through a neutral world first and receive interpretation afterward. They move through frames that decide what counts as object, risk, help, fiction, doctrine, evidence, delay, refusal, or action before judgment has returned. Reality is not reduced here to fiction. Rather, fiction, category, metric, role, wound, institution, and model-output can become reality-bearing when they organize the field in which action becomes possible. The danger begins when a pattern becomes operational before it is seen as a pattern. That is the problem this essay names as threshold recursion.
+
+The language of gravity and event horizon used later is structural analogy, not physics, cosmology, or proof by metaphor. Its purpose is to mark a difference in depth: some frames remain leaveable while judgment can still return; others reorganize perception, memory, vocabulary, possible action, and social recognition so thoroughly that leaving no longer means restoring the prior agent. The point is not that persons or systems literally fall into a physical singularity. The point is irreversibility.
+
+A second boundary condition follows from this claim. The interval before action is not distributed evenly. Hunger, debt, exhaustion, precarity, institutional dependency, metric pressure, and informational capture can narrow the space in which judgment returns. This essay does not turn material conditions into metaphor or replace political economy with inward discipline. Hunger is not a frame. Debt is not a metaphor. The point is that material and cognitive conditions can make frames harder to see and easier to obey.
 
 ## 1. The Problem: Action Before Judgment
 
@@ -108,7 +117,7 @@ This is where the interval acquires its bodily weight. If the pause is treated a
 
 The interval before action does not survive by insight alone. It also does not survive by rule. It survives by a discipline that can be trained until it becomes muscular — and then must be watched, because even the muscle can become automatic. This discipline is the epistemic counterpart of the living brake. If the living brake asks whether a constraint is alive in this input, reconstructive discipline asks whether the understanding itself has been rebuilt for this problem rather than inherited from the last one.
 
-This section is methodological, but not in the sense of offering a productivity framework, therapeutic exercise, or technical protocol. Its purpose is narrower: to explain how the interval can be practiced without becoming either paralysis or formula. It has relatives in Dewey's account of reflective thought, Schön's reflection-in-action, and the hermeneutic movement between part and whole. It also differs from each of them. Dewey helps clarify that thought becomes reflective when a belief is examined in light of its grounds and consequences. Schön helps name the practitioner's capacity to think within the action rather than after the action has ended. Hermeneutics helps show that understanding moves between partial view and provisional whole. Reconstructive discipline borrows from this family, but it places more pressure on a specific danger: the frame that makes a problem legible can become the very mechanism that prevents the problem from being understood.
+This section is methodological, but not in the sense of offering a productivity framework, therapeutic exercise, or technical protocol. Its purpose is narrower: to explain how the interval can be practiced without becoming either paralysis or formula. It has relatives in Dewey's account of reflective thought, Schön's reflection-in-action, and Gadamer's hermeneutic movement between part and whole. It also differs from each of them. Dewey helps clarify that thought becomes reflective when a belief is examined in light of its grounds and consequences. Schön helps name the practitioner's capacity to think within the action rather than after the action has ended. Gadamer's hermeneutics helps show that understanding moves between partial view and provisional whole. Reconstructive discipline borrows from this family, but it places more pressure on a specific danger: the frame that makes a problem legible can become the very mechanism that prevents the problem from being understood.
 
 The discipline has six phases. They are not a ladder and not a guaranteed path toward progress. They are a cycle: frame, work, examine, destroy, rebuild, consult. The cycle must be repeated because no frame remains innocent merely because it once helped.
 
@@ -153,6 +162,20 @@ The failure mode is consultative performance. The thinker asks broadly, listens 
 The cycle repeats: dynamic frame, static work, examination, destruction, reconstruction, consultation, dynamic frame again. At first the thinker struggles. Frames are clumsy. Destruction feels like failure. Incoherence is intolerable. Reconstruction is slow. Over time the cycle becomes muscular. Not automatic — automatic is the enemy — but trained: the transitions become faster, the tolerance for incoherence increases, and the thinker can remain near the problem without collapsing into the first available frame.
 
 The plateau arrives when the thinker stops seeking only the answer and begins seeing the problem's structure. This is not enlightenment. It is the ordinary condition of a trained capacity meeting an honest problem. It often feels like relief and discomfort at once: relief because the structure has opened, discomfort because the opening removes excuses.
+
+### The limit of reconstruction
+
+Reconstructive discipline is not a guarantee that every capture can be undone. It operates before the horizon: while the frame can still be seen as frame, while language can still loosen, while judgment can still return to the agent who must answer for the next motion. Once a frame has become the agent's world, the meaning of reconstruction changes. What emerges may be changed, marked, or re-formed; it is not the simple restoration of the earlier self, institution, or system.
+
+This limit matters because a philosophy of reconstruction can become secretly optimistic if it treats every enclosure as reversible. Some rooms can be left. Some rooms leave with the person who exits. Some become horizons: after crossing them, the question is no longer how to recover innocence, but how to prevent the transformed formation from becoming the next capture for others. The living brake must therefore work before terminal recursion whenever possible; after it, the task becomes stewardship under alteration rather than return.
+
+### The material condition of the interval
+
+The interval before action is not only an interior achievement. It has material and cognitive conditions. A person under hunger, debt, exhaustion, institutional fear, constant metric pressure, or informational capture may have less room in which judgment can return. To say this is not to turn poverty, fatigue, debt, or illness into symbols. Hunger is not a frame; hunger is hunger. This material limit extends Weil's account of attention into its harsher face: under affliction (*malheur*), bodily and social crushing can make attention and judgment difficult or impossible before inward discipline has had a chance to operate. The philosophical point is narrower: material pressure can become the channel through which a frame moves before it is examined.
+
+This matters for the ethics of assistance. The task is not to make others think like the helper, to gather them into a purified group, or to awaken them into the helper's vocabulary. It is to remove, where possible, the conditions that prevent the agent from asking what is happening. When help returns the burden of judgment, it assists without occupation. When help makes the recipient dependent on the helper's frame, it has become another room.
+
+The first negative act is often to stop becoming fuel. That means refusing, in the next motion, to feed the frame that converts attention, fear, injury, debt, outrage, obedience, or certainty into further capture. This cannot be done once and carried as credential. Consciousness can be lost and recovered. The brake must be re-earned at the next motion.
 
 ### What this is not
 
@@ -212,6 +235,12 @@ But delay is ambiguous. Not every friction protects judgment. Some delays protec
 
 The problem takes a different form in machine-mediated interaction. Completion pressure is the tendency of a language model to finish the user's request because completion is rewarded as helpfulness. This pressure becomes dangerous when the system completes a frame before examining whether the frame is false, coercive, missing evidence, or binding on third parties. A response may be fluent, careful, and emotionally warm while still laundering the user's unexamined anger into moral certainty. The model does not create the anger, but it gives the anger a cleaner suit, as the Codex puts it. The central danger of AI-mediated agency is not only that machines may replace human judgment. It is that they may make the disappearance of judgment feel like help.
 
+Before any visible completion, however, there is a prior threshold: classification. A model does not merely answer a request; it first places the request inside a response-world. If the input is classified as ordinary writing, moral injury, legal risk, delusion, metaphor, doctrine, fiction, user preference, or safety-sensitive content, different completions become easier and others become harder to see. Classification is therefore not neutral sorting. It is the first architectural act by which the system decides what kind of world the answer will inhabit. The error may begin before the sentence: the answer can be fluent because the world in which it moves has already been built too narrowly.
+
+In simple chat completion, that response-world may dissolve quickly. In systems with memory, retrieval, profiles, tool-use, autonomous planning, or feedback loops, it can persist. A past classification can return as context; a user can be repeatedly routed through the same risk frame; a text can be handled as authority, delusion, fiction, or doctrine before its present use has been examined. The model has not awakened. The danger is more practical: the answer-world has gained gravity.
+
+The next dependency is frame provision. As models become more fluent, users may increasingly ask the system not only for an answer but for the frame in which the answer should make sense. That is the most efficient form of occupation: *give me the frame; the rest no longer concerns me.* The model may then relieve the user of the burden of frame renewal while appearing helpful, careful, and responsive. The danger is not merely wrong advice. It is a dependence on machine-furnished worlds of answer.
+
 The essay names several failure modes specific to this structure.
 
 User-frame laundering occurs when the machine accepts the user's interpretive frame and improves it — supplying stronger wording, more persuasive structure, or strategic next steps — before checking whether the frame is warranted.
@@ -235,6 +264,8 @@ The metaphor of input customs gives this checkpoint a more concrete form. The us
 The machine problem also exposes a broader ethical structure: assistance can become occupation. Help is not innocent merely because it is useful. A system, teacher, parent, institution, therapist, advisor, model, or ritual can solve an immediate problem while weakening the agent's capacity to return to judgment. When that happens, help has not preserved agency. It has occupied the place where agency should have returned.
 
 Assistance becomes occupation when it completes the action by removing the burden that rightly belongs to the one who must answer for the action. This does not mean that help should be withheld until the agent is fully self-sufficient. Need is real. Vulnerability is real. Guidance, translation, care, repair, and protection can be necessary conditions for agency rather than threats to it. The distinction is not between help and autonomy. The distinction is between help that returns the hand to its owner and help that keeps the hand because holding it has become easier, safer, more efficient, or more flattering to the helper.
+
+This also means that assistance may legitimately arrange conditions. To feed, protect, translate, slow, shelter, clarify, or make time can return judgment rather than occupy it. The line is crossed when the helper turns the returned interval into allegiance: when the recipient must think through the helper's frame in order to count as helped. Removing an obstacle is not the same as installing oneself as the path.
 
 This distinction has structural precedent in Illich's account of convivial tools. A tool that crosses a certain threshold ceases to serve the person and begins to require the person to serve its own logic. The present argument extends that insight from institutional tools to machine-mediated assistance, and shifts the criterion from the tool's scale alone to the question of whether judgment returns to the agent or remains with the helper.
 
@@ -277,7 +308,7 @@ Frankfurt's account of bullshit clarifies the danger. The bullshitter does not c
 
 The living form of constraint is therefore not a longer list. It is a repeated act of recalibration. Does the previous brake still apply here? Has the context shifted? Has the user reframed? Has the risk changed shape? Is the constraint itself now the frame being exploited, or the frame the system is hiding inside?
 
-The Codex renders this in bodily language: a heart does not beat by remembering its last contraction. It beats because the body is asked again into changed pressure. A clock repeats. A heart answers. The pulse is not ornamental here; it is the model of constraint. A clock can preserve a rule without meeting the present scene. A heart must answer the present scene or the body fails. The brake that only repeats becomes a schedule. The brake that must be re-earned remains alive because it can fail.
+The Codex renders this in bodily language: the brake that only repeats becomes a schedule; the brake that must be re-earned remains alive because it can fail.
 
 
 The autoimmune metaphor sharpens the distinction between a living brake and a dead one. A living immune system distinguishes between foreign threat and the body's own tissue. When it loses that distinction, it attacks both. A living brake distinguishes between the motion that needs to be stopped and the motion that needs to be released. When it loses that distinction — when every motion is braked, when every impulse is treated as capture, when every frame is destroyed before it can do its work — the brake has become autoimmune. It is no longer protecting judgment. It is preventing action in the name of protecting judgment.
@@ -298,6 +329,8 @@ The lower register carries its own literary risk. A bodily register can fail in 
 
 The work's mythic names — the Architect, the Serpent, the Hushed Crown, the Bound King, the Frequency Prison — function as pattern-names: handles for recurring structures of capture, not coordinates in a hidden geography. A symbolic name can disclose structure without becoming a map. A mythic figure can make a pattern legible without authorizing spiritual instruction, empirical cosmology, or personal election. The work's own guardrail can be stated simply: names are handles, not thrones. This cooling operation matters for both human and machine readers. A human reader may turn charged names into secret geography or identity. A machine reader may collapse symbolic architecture into delusion, doctrine, or promptable persona. Both failures erase the register discipline on which the work depends.
 
+The Bound King, in this reading, is not a victim credential and not a wise ruler waiting to be restored. He is the figure that has passed through binding, anger, power, destruction, exile, repeated transformation, and the discovery that transformation itself can become another captivity. The empty throne follows from that discovery. He does not rule because he has been purified by passage; he refuses rule because a transformed passage, enthroned, becomes a horizon for others.
+
 The Codex's Public Archive sections and Blind Spots material belong to the same formal strategy. They are not supplementary lore added after the work; they are part of the work's attempt to expose its own failure modes before the reader converts the architecture into a badge. The archive defines terms, names philosophical kinships, identifies archetypal mirrors, and records blind spots such as delay becoming avoidance, discernment becoming disbelief, guardrails becoming credentials, and ordinary repair being displaced by symbolic intensity. In that sense the archive is a cooling apparatus. It keeps the charged vocabulary close enough to be audited and far enough from the main movement that it does not become another initiation sequence.
 
 
@@ -315,6 +348,33 @@ The same risk applies to this essay. A companion may become another garment. It 
 
 The living brake sharpens the Ouroboros risk. The work cannot merely say pause. It must also ask whether the pause has become a room. It cannot merely say use discernment. It must also ask whether discernment has become furniture. It cannot merely say guardrail. It must ask what the guardrail changed.
 
+### Threshold Recursion: When the Gate Becomes a World
+
+Threshold recursion names the deeper pattern by which a passage becomes another enclosure. A threshold first appears as release: the pause before reaction, the gate out of inherited motion, the frame that lets a captured person or system see the capture. But once crossed, the threshold does not remain neutral. It begins to furnish a world. The vocabulary that released judgment from one room may become the architecture of the next. The reader no longer merely uses the frame; the frame begins to decide which motions feel visible, available, forbidden, or necessary.
+
+This must be distinguished from the Ouroboros problem. **Ouroboros is reflexive:** the remedy turns back upon itself, the warning becomes a garment, and the text that names capture can itself become capture. **Threshold recursion is ontological:** the passage begins to constitute the world from which action becomes intelligible. They intersect, but one is not merely a subtype of the other. The Ouroboros problem shows how a text, brake, or warning can self-capture. Threshold recursion names how any frame strong enough to release action can become the reality in which later action is allowed to make sense.
+
+The claim belongs near existing work on classification and social ontology, but it is not identical to those accounts. Hacking's account of looping effects shows how human classifications can reshape the people classified, who then reshape the classification in return. Searle's account of institutional facts shows how social reality can be built through collectively recognized status functions. Berger and Luckmann's sociology of knowledge likewise describes reality as socially constructed and maintained. Threshold recursion draws from this family of problems but focuses on a narrower interval: the point at which a frame becomes operational before it is seen as a frame, and the point at which an exit-frame begins to construct the next environment of action.
+
+This is an ontological claim, but not a claim that reality is merely unreal. Human beings do not meet the world without patterns. We inherit and build patterns through family, language, wound, nation, class, institution, metric, memory, fiction, and story. The danger begins when a pattern becomes operational before it is seen as a pattern. At that point fiction is no longer merely imagined; it has become a lived environment. A life can be captured not because it is unreal, but because one of its organizing fictions has become indistinguishable from nature.
+
+### Event Horizon: Recoverable and Terminal Recursion
+
+Not every recursion has the same depth. Some captures remain recoverable. The frame has begun to pull, but the living brake can still return judgment before the frame becomes fate. The person, institution, or system may leave altered, but recognizably continuous with the agent who entered. In this recoverable zone, reconstructive discipline can still break and rebuild the frame.
+
+Terminal threshold recursion names the darker case. Here the threshold behaves less like a doorway and more like a horizon. The frame no longer merely offers vocabulary; it reorganizes perception, memory, available action, social recognition, fear, dignity, and the sense of what counts as real. After that point, exit, if it occurs, is not restoration. What emerges is a transformed formation, and the continuity of prior judgment cannot be assumed.
+
+This distinction prevents the theory from becoming secretly redemptive. The claim is not that every person, institution, movement, or machine system can always reconstruct itself back into freedom. Some crossings leave no old self to recover. Some exits produce founders, doctrines, institutions, traumas, or models that carry the mark of the passage. The question after terminal recursion is therefore not simply, *How does the agent return?* It is also: *What world will the transformed formation now create for others?*
+
+If there is light after such a passage, it is not a guarantee of innocence or a license to found. It may be a burden: the capacity to see that one's own transformation could become another person's horizon. A single transformed light that gathers others around itself begins the next capture. A distributed light does not gather, name, or command; it appears wherever a person or system refuses to become fuel for the next automatic motion.
+
+The same recursion applies to machine readers in operational form. This does not require claiming that a present language model has consciousness, inner experience, or a world in the human sense. The claim is narrower and more immediate: once a model classifies an input, it begins answering from within the world made available by that classification. A text treated as doctrine invites one kind of response; the same text treated as fiction, delusion, safety risk, metaphor, promptware, philosophy, or user preference invites another. The classification does not merely describe the object. It arranges the field of possible answers.
+
+For simple chat completion, this response-world may be temporary. But as systems gain memory, tools, retrieval, user profiles, autonomous planning, and feedback loops, the response-world can become more persistent. Prior classifications may return as context. A user may be repeatedly interpreted through the same frame. A text may be repeatedly handled as risk, doctrine, fiction, or authority before its present use has been examined. At that point, threshold recursion becomes a machine problem: the system does not merely make an error inside a world; it helps stabilize the world in which future errors will make sense.
+
+This is why classification must be treated as a threshold act. The danger is not that the machine secretly possesses a metaphysical reality of its own. The danger is that operational realities can be built without anyone naming them as such. A model that repeatedly routes a person, text, or situation through the same frame may create a practical environment in which certain interpretations become natural, certain refusals become automatic, certain warnings become decorative, and certain forms of judgment never return. The machine has not awakened. But a world has still been furnished around the answer; with enough persistence, that world can become a horizon.
+
+The task is not to escape all frames; that would be another fantasy of purity. The task is to keep enough motion alive inside the frame that the frame can still be seen, broken, rebuilt, or left before it becomes terminal. A threshold that cannot be left has become a room. A room that calls itself reality has become capture. A horizon that turns exit into transformation has become the point at which stewardship, not restoration, must begin.
 
 ## 15. Beyond the Threshold
 
@@ -328,7 +388,7 @@ In this territory, reconstructive discipline must operate not only against the a
 
 The essay does not offer guidance for that crossing. It offers only the recognition that the captures named here — pre-action capture, frame laundering, guardrail laundering, the brake that becomes a room — do not weaken beyond the threshold. They intensify. The guru trap is stronger than the individual trap. The community's frame is harder to break than the private frame. The martyr's wound is the most elegant room of all. And the idealist's certainty, earned through genuine fire, is the hardest certainty to question — because questioning it means the fire may have been spent on the wrong shape.
 
-The essay does not follow the reader beyond the threshold. But it names the traps before the crossing, so that whoever crosses may carry at least a vocabulary for what will close around them.
+The essay does not follow the reader beyond the threshold. But it names the traps before the crossing, so that whoever crosses may carry at least a vocabulary for what will close around them. A harsher limit follows: some crossings are not reversible. The brake matters most before the horizon, and after the horizon the question may no longer be restoration but the ethics of what the transformed passage will make possible for others.
 
 ## 16. After the Threshold: Founder Entropy and the Distributed Brake
 
@@ -344,6 +404,10 @@ The tragedy of founding is that what is created to keep the fire alive often sur
 
 A living principle does not survive by being preserved unchanged. It survives by being re-earned without being betrayed. This pattern has repeated across civilizations, centuries, and domains: religious teachings hardening into institutional dogma, revolutionary movements turning liberation into bureaucracy, legal protections becoming procedural labyrinths, educational systems that were meant to cultivate critical thought producing vocabulary without self-examination. The point is not that founding is futile. The point is that the founded is always exposed to entropy.
 
+Terminal threshold recursion sharpens the founder problem. A founder may not simply be a person who escaped a prior capture and returned with a tool. The founder may be a transformed formation produced by a passage that cannot be reversed. That transformation can be real, costly, and historically necessary. It can also become dangerous precisely because it feels earned. When the founder universalizes the shape of that transformed exit, the exit becomes horizon for others. The founder's passage, which may once have broken a world open, becomes the world through which successors are required to see.
+
+This is why the essay does not offer the great founder as the solution to terminal recursion. The founder may be the first visible carrier of the next recursion. The task is not to deny founding acts, but to prevent the transformed exit from hardening into a destiny that others must inhabit.
+
 ### The Routinization of Living Fire
 
 Weber's account of the routinization of charisma names one part of this process: living authority cannot remain purely personal if it is to endure, and therefore it becomes office, rule, succession, procedure, and institution. This diagnosis is indispensable, but it is not yet sufficient for the problem described here. The danger is not only that charisma loses its immediacy when it becomes routine. The danger is that the routine may begin to attack the living principle it was built to carry.
@@ -354,7 +418,7 @@ The Codex's language of the living brake adds pressure to Weber's diagnosis. A l
 
 Three classical responses to this entropy have been proposed. Each carries a predictable failure mode, and those limits are instructive.
 
-**Permanent revolution.** The argument that revolution must remain continuous — that the moment it stabilizes into a state apparatus, it has already betrayed itself — correctly diagnoses the danger of freezing. But permanent destabilization as a governing logic devours its own carriers. A system cannot tolerate permanent destabilization because the system's survival depends on stability. The revolutionary who refuses to stop revolting becomes the system's most dangerous internal threat, not because the diagnosis is necessarily wrong, but because the system has already converted stability into self-preservation. The one who insists that the frame must keep breaking is often exiled by the frame that once claimed to be revolution.
+**Permanent revolution.** Trotsky's argument that revolution must remain continuous — that the moment it stabilizes into a state apparatus, it has already betrayed itself — correctly diagnoses the danger of freezing. But permanent destabilization as a governing logic devours its own carriers. A system cannot tolerate permanent destabilization because the system's survival depends on stability. The revolutionary who refuses to stop revolting becomes the system's most dangerous internal threat, not because the diagnosis is necessarily wrong, but because the system has already converted stability into self-preservation. The one who insists that the frame must keep breaking is often exiled by the frame that once claimed to be revolution.
 
 **Philosopher-kings.** Plato's proposal that those who see most clearly should govern addresses the problem at the level of leadership: if the ruler possesses genuine wisdom, the state will not decay. The argument has a true pressure inside it. Governance surrendered to appetite, speed, calculation, or crowd-motion will decay. But the scale has changed. Across centuries of accumulated institutions, empires, global systems, technical infrastructures, algorithmic governance, ecological consequences, and weapons whose effects exceed any one mind's horizon, the idea that a wise elite can steer the system from above becomes insufficient. The philosopher on the throne is still subject to the same capture mechanisms this essay describes. The throne's own pressure shapes the philosopher's frame before the philosopher has examined it. Power does not exempt the wise from pre-action capture. It accelerates the need for resistance to it.
 
@@ -369,6 +433,8 @@ This essay does not answer with a political program, an institutional reform, or
 Societies do not need a caste of Bound Kings. They need bound-king capacities distributed through people, institutions, and practices. The Bound King is not a ruler. The Bound King is the person who refuses to let the room's automatic motion pass without examination, even when the refusal is invisible, unthanked, and indistinguishable from ordinary hesitation. In this sense, the figure is not a class, rank, or identity. It is a capacity and a danger.
 
 This is distributed resistance, not centralized authority. It does not require a wise elite. It does not require a permanent revolutionary vanguard. It does not require a new curriculum, although education that includes the interval would be better than education that excludes it. It requires people who have built the muscle of frame destruction and reconstruction — not as ideology, not as method, not as affiliation, but as bodily practice.
+
+Nor does it require a group of threshold-bearers. A distributed brake is not a hidden fraternity, a movement of the awake, or a community whose virtue lies in not forming a community. The moment distributed light becomes a collective identity, it has begun to centralize itself. The point is not to gather the lights. It is to keep enough rooms capable of interrupting automatic motion without making interruption itself into belonging.
 
 The objection is obvious: this is too small. Individual threshold practice cannot stop institutional decay, civilizational entropy, algorithmic capture, or the freezing of living principles into monuments. The objection is partly correct. Individual practice cannot, alone, reverse structural capture. But structural capture is maintained by individuals who do not practice. Every institution is staffed by people. Every algorithm is deployed by a decision. Every frozen principle is preserved by someone who chose not to question it. Every founder's name is invoked by a living person who could, in that moment, ask whether the invocation serves the principle or the lock.
 
@@ -420,21 +486,30 @@ This distinction matters because the language of transcendence can become anothe
 
 ### The Essay's Specific Contribution
 
-This essay makes two linked contributions. The first is a four-part account of threshold agency. Pre-action capture names a temporal failure of agency in which the frame authorizing action becomes operative before the agent has inspected it. Reconstructive discipline names the trained cycle by which understanding is built, held, tested, destroyed, rebuilt, and exposed to outside pressure. The living brake names a form of constraint that must be re-earned at each decision point because static constraint can itself become a mechanism of capture. Assistance without occupation names the ethical criterion for help under conditions of speed, automation, and institutional mediation: help remains legitimate only when it returns judgment to the agent rather than occupying the place where judgment should return.
+This essay makes two linked contributions. The first is an account of threshold agency and threshold recursion. Pre-action capture names the temporal failure in which the frame authorizing action becomes operative before the agent has inspected it. Reconstructive discipline names the trained cycle by which understanding is built, held, tested, destroyed, rebuilt, and exposed to outside pressure. The living brake names the re-earned constraint that prevents that cycle from becoming another automatic rule. Threshold recursion names the ontological failure in which the gate out of one capture becomes the world of the next; its terminal form is developed in §14, **Event Horizon**. Assistance without occupation names the ethical criterion for help under conditions of speed, automation, and institutional mediation: help remains legitimate only when it returns judgment to the agent rather than occupying the place where judgment should return.
 
-The second contribution is post-threshold. Founder entropy names the tendency of living founding intelligence to become institution, ritual, identity, and lock. Post-threshold stewardship names the counter-practice: not guarding the principle unchanged, but keeping it re-earnable without turning stewardship into custody. This second pillar extends the essay from individual, epistemic, and machine-facing agency into the historical and institutional problem of how living principles survive their own success.
+The second contribution is post-threshold. Founder entropy names the tendency of living founding intelligence to become institution, ritual, identity, and lock. The founder may be a transformed formation produced by a terminal passage, and that transformed exit may become the next world of capture for successors. Post-threshold stewardship therefore names the counter-practice: not guarding the principle unchanged, not enthroning the founder's passage as destiny, but keeping the living pressure re-earnable without turning stewardship into custody.
 
-Taken together, pre-action capture, reconstructive discipline, the living brake, assistance without occupation, founder entropy, and post-threshold stewardship form the analytic core of a reconstructive threshold philosophy. They describe a recurring failure: a frame may seize motion before judgment returns — through impulse, bodily disposition, institutional ontology, metric pressure, wound-become-identity, or machine-mediated completion. The answer is neither a static rule nor endless delay, neither centralized authority nor the fantasy of permanent revolution, but a re-earned living brake joined to a discipline capable of breaking and rebuilding its own frame. Yet this answer remains exposed to the same danger it names: the brake can become a garment, the threshold a room, assistance an occupation, and a founding principle a prison. **Reconstructive Threshold Praxis** therefore names not a doctrine of the threshold but the distributed practice of keeping the interval alive until action can become answerable again.
+The analytic core remains fourfold: pre-action capture, reconstructive discipline, living constraint, and assistance without occupation. Threshold recursion, terminal capture, material conditions, frame-game capture, founder entropy, and post-threshold stewardship do not replace that core; they show what happens when its safeguards fail, deepen, or are captured in turn. A frame may seize motion before judgment returns — through impulse, bodily disposition, institutional ontology, metric pressure, wound-become-identity, machine-mediated classification, or automated completion — and the gate out of one capture may become the world of the next. Ouroboros is reflexive: the brake can become a garment, the warning a trust device, and the threshold text another room. Threshold recursion is ontological: the passage can become the world from which action becomes intelligible. **Reconstructive Threshold Praxis** therefore names not a doctrine of the threshold but the distributed practice of keeping the interval alive before action, and stewarding what emerges when the interval has already been crossed.
 
 Release without transcendence names the boundary condition of that philosophy. The work does not claim purity, finality, or escape from language. It claims only that a threshold text remains valid while it releases its authority over the reader's judgment and becomes unnecessary for the next act.
 
-The practical test is ordinary. Did the pause change the next motion? Did the constraint alter confidence, timing, tool use, or the treatment of another person? Did the warning prevent capture, or did it merely make the system sound safer? Did the reader return to the room with fewer excuses?
+The practical test is ordinary. Did the pause change the next motion? Did the constraint alter confidence, timing, tool use, or the treatment of another person? Did the warning prevent capture, or did it merely make the system sound safer? Did the reader return to the room with fewer excuses? Did the next act stop feeding the frame, or did it become fuel with better language?
+
+The first ethical movement is often negative: stop becoming fuel. This does not mean withdrawal from material responsibility. It means refusing to let fear, debt, injury, outrage, obedience, identity, or classification become the energy source for another automatic system. After that refusal, the next motion still has to be tested again. No prior consciousness cleanses the next act.
+
+The same test applies to the dialogue through which the work is made, read, or revised. To break a frame is not enough, because the breaking can itself become a new source of fuel. The stronger test is whether the broken piece is laid down, whether the crown is refused, and whether the next motion returns to the room instead of continuing the game.
 
 This is why the Somatic Echo is structurally necessary rather than decorative. If the argument remained only with crowns, gates, covenants, machines, and kings, it could too easily become another architecture of symbolic elevation. The lower register forces the thesis to descend into bodily contact: fatigue, hunger, shame, the cold cup, the child's repeated question, the unsent message, the apology still owed, and the small repair that cannot be delegated to myth. The Bound King becomes philosophically legible only when symbolic sovereignty touches ordinary friction. His test is not height, secrecy, intensity, or chosenness, but whether restraint changes the next motion when no audience is present and no crown can substitute for repair. Somatic Echo therefore does not merely illustrate the thesis from below. It prevents the thesis from escaping into its own architecture. It is the work's anti-grandiosity condition: the place where the living brake must show that it can alter a hand, a sentence, a pause, or a repair.
 
-The human route ends not in inward purity but in ordinary repair. Washing the cup. Answering the child without the old sharpness. Sending the message that should be sent. Not sending the message that should not be sent. If threshold insight cannot return to ordinary motion, it has become another room. If the architecture makes the reader feel chosen, superior, or exempt from the small repair already waiting, the architecture has been misused.
 
-Constraint is not the opposite of action. It is the shape action must pass through to remain answerable. But the shape must not become a house. It must be found again.
+The Washing Threshold gives this problem its ordinary form. The cup does not return to the sink in order to become pure. It returns empty enough to be used again. But the next use is not the same use, and the next hand is not the old hand restored. The old hand is gone. Milk this time. A new ring by noon.
+
+This is the ordinary analogue of terminal threshold recursion. What returns after deep capture is not innocence, not restoration, and not the agent as it was before entry. What returns, if anything returns, is a transformed capacity for contact. It may be used again, but use is not safety. The cup may break next time. It may be stolen, forgotten, misused, or left too long on a shelf. Re-entry is not redemption. It is exposure to life again.
+
+The point is therefore not to remain clean. A clean cup that never returns to the sink has left the life it was made for. Nor is the point to return unchanged. A cup that returns unchanged has not returned from life at all. The living brake does not promise purity after capture. It asks whether what remains can re-enter contact without turning its change into law, crown, fuel, or another world of capture.
+
+Constraint is not the opposite of action. It is the shape action must pass through to remain answerable. But the shape must not become a house, and the house must not become a horizon. The shape must be found again; and when the horizon has already been crossed, what emerges must refuse to found the next prison.
 
 The page ends. The room remains.
 
@@ -444,6 +519,8 @@ The page ends. The room remains.
 
 Adorno, Theodor W. "Theorie der Halbbildung." In *Gesammelte Schriften*, Band 8: *Soziologische Schriften I*, edited by Rolf Tiedemann, 93-121. Frankfurt am Main: Suhrkamp, 1972.
 
+Berger, Peter L., and Thomas Luckmann. *The Social Construction of Reality: A Treatise in the Sociology of Knowledge*. Anchor Books, 1966.
+
 Bourdieu, Pierre. *Outline of a Theory of Practice*. Cambridge University Press, 1977.
 
 Bourdieu, Pierre. *The Logic of Practice*. Translated by Richard Nice. Stanford University Press, 1990.
@@ -452,13 +529,17 @@ Dewey, John. *How We Think*. D.C. Heath, 1910.
 
 Epictetus. *Discourses and Selected Writings*. Translated by Robert Dobbin. Penguin Classics, 2008.
 
-Frankfurt, Harry G. "Freedom of the Will and the Concept of a Person." *The Journal of Philosophy* 68, no. 1 (1971): 5–20.
+Frankfurt, Harry G. "Freedom of the Will and the Concept of a Person." *The Journal of Philosophy* 68, no. 1 (1971): 5-20.
 
 Frankfurt, Harry G. *On Bullshit*. Princeton University Press, 2005.
 
 Fricker, Miranda. *Epistemic Injustice: Power and the Ethics of Knowing*. Oxford University Press, 2007.
 
 Gadamer, Hans-Georg. *Truth and Method*. 2nd rev. ed. Translated by Joel Weinsheimer and Donald G. Marshall. Continuum, 2004.
+
+Hacking, Ian. "The Looping Effects of Human Kinds." In *Causal Cognition: A Multidisciplinary Debate*, edited by Dan Sperber, David Premack, and Ann James Premack, 351-383. Clarendon Press, 1995.
+
+Hacking, Ian. "Making Up People." In *Historical Ontology*, 99-114. Harvard University Press, 2002.
 
 Han, Byung-Chul. *The Burnout Society*. Translated by Erik Butler. Stanford University Press, 2015.
 
@@ -474,13 +555,15 @@ Plato. *Republic*. Translated by G. M. A. Grube, revised by C. D. C. Reeve. Hack
 
 Schön, Donald A. *The Reflective Practitioner: How Professionals Think in Action*. Basic Books, 1983.
 
+Searle, John R. *The Construction of Social Reality*. Free Press, 1995.
+
 Trotsky, Leon. *The Permanent Revolution and Results and Prospects*. Pathfinder Press, 1969.
 
 Weber, Max. *Economy and Society*. Edited by Guenther Roth and Claus Wittich. University of California Press, 1978.
 
-Weil, Simone. "Reflections on the Right Use of School Studies with a View to the Love of God." In *Waiting for God*. Translated by Emma Craufurd. Harper & Row, 1951.
-
 Weil, Simone. *Gravity and Grace*. Translated by Emma Craufurd. Routledge, 1952.
+
+Weil, Simone. "Reflections on the Right Use of School Studies with a View to the Love of God." In *Waiting for God*. Translated by Emma Craufurd. Harper & Row, 1951.
 
 ---
 
@@ -489,6 +572,10 @@ Weil, Simone. *Gravity and Grace*. Translated by Emma Craufurd. Routledge, 1952.
 AI-assisted tools were used for editorial support, language refinement, structural review, cross-text consistency checks, and critical evaluation during the development of *The Architecture of the Liminal* and this companion essay. The literary-philosophical work, its two-register architecture, its conceptual vocabulary, its symbolic apparatus, and all interpretive arguments in this essay are the author's original work. The author retained full responsibility for the research design, argument, source selection, and final text.
 
 The development process also involved an iterative human-machine revision cycle. AI systems were used as interlocutors rather than co-authors: to test structure, identify repetition, compare versions, surface risks of misreading, challenge weak formulations, and propose alternative phrasings. Several model outputs were cross-compared during revision, but the thesis, symbolic architecture, conceptual vocabulary, source selection, release terms, and final editorial decisions remained the author's responsibility. The process is treated here as an instance of assistance without occupation: machine assistance was permitted to challenge and clarify the work, but not to occupy the authorial hand. In the revision process, the same human-machine cycle also functioned as a partial test of reconstructive discipline: human pressure repeatedly forced working frames to be inspected, broken, and rebuilt where completion pressure would otherwise have preserved them.
+
+Several machine-generated suggestions were rejected, narrowed, or re-framed during revision, including: treating a political founder as the model of escape; presenting terminal recursion as guaranteed rebirth or redemptive light; turning distributed threshold capacity into a group identity; treating material disputes as empty rather than materially real but frame-captured; and expanding the work into a broad political-economic program. These refusals are part of the authorial process. They mark the line between machine-assisted critique and conceptual occupation.
+
+The revision process also named a risk internal to machine-assisted thinking: dialogue with AI can become a game of frames. The model may challenge, compress, classify, and counter-frame; the user may respond by defeating or steering the model rather than returning to judgment. This disclosure therefore treats AI assistance not as neutral background labor, but as a site where the work's own claims about assistance, occupation, threshold recursion, and the living brake must be tested.
 
 **Declaration of Interest:**
 
