@@ -8,7 +8,7 @@ https://github.com/emreertuhi/architecture-of-the-liminal
 
 This is a literary-philosophical work. Its mythic voices and symbolic figures are literary devices, not claims of personal revelation, spiritual authority, literal cosmology, or institutional representation.
 
-**Public release: v13.3.3 — Human-First Route**
+**Public release: v13.6.3 — Human-First Route**
 
 **For:**
 
@@ -51,6 +51,9 @@ It carries the same structural problem as the Covenant from the human side: a fr
 ---
 
 # 0. Read This First
+
+The interval has material conditions. Hunger, debt, exhaustion, fear, and institutional dependency can shrink the space in which judgment returns. This route does not ask the reader to float above those pressures. It asks where the pressure is turning the reader into fuel before the reader can see it.
+
 
 You do not need to believe this text.
 
@@ -100,7 +103,7 @@ Not every pause remains a threshold.
 
 Some pauses become furniture. Some questions become roles. Some brakes protect judgment; others protect fear. The body-side route carries this risk without turning it into another lesson to perform.
 
-This is why the route does not end at the pause. It ends at the cup, the message, the apology, the child, the document, the ordinary repair. The body must learn not only to stop, but to move with the interval intact.
+This is why the route does not end at the pause. It ends at the cup, the message, the apology, the child, the document, the ordinary repair. The body must learn not only to stop, but to move with the interval intact, knowing that return is use again, not restoration.
 
 This is why the pause cannot be inherited from yesterday. Each morning, each room, each face, each message requires the pause to be earned again. A pause that arrives automatically has stopped being a pause. It has become a schedule. The body knows the difference: a pause that protects judgment feels uncertain. A pause that has become a habit feels safe. When the safety is the first thing you notice, the pause has already become the room.
 
@@ -109,6 +112,44 @@ The three-second pause is not a duration to be obeyed. It is a mythic marker for
 # 0C. The Inhabited Frame
 
 A threshold does not give the reader permission to demolish every frame that appears outdated. Some frames are inhabited. A plan may be imperfect and still be carrying the weight of a child, a spouse, a promise, or an ordinary shared rhythm. The human route therefore asks not only whether a frame is true, but whether it is yours to break now.
+
+# 0D. Threshold Recursion
+
+Some thresholds are still doors. Some have become horizons. In recoverable recursion, the frame pulls but the living brake can still return judgment before the next motion. In terminal recursion, the frame has become the weather of the room. Leaving may still happen, but it is no longer restoration. It is transformation.
+
+This does not mean that nothing can return. It means that what returns is not the old hand made clean. The cup may come back to the sink empty enough to be used again, but the next use is not the same use, and the next hand is not the old hand restored. It may break next time. It may be forgotten. Return is not safety. Reuse is not restoration.
+
+This matters for ordinary life. Some messages can be unsent by waiting. Some wounds can be repaired before they become identity. Some apologies can still alter the next motion. But some lines, once crossed, do not give back the earlier room. Then repair is still required, but repair no longer means pretending that nothing irreversible happened.
+
+
+A human being does not escape pattern by naming pattern. Family, wound, nation, role, class, doctrine, metric, and story can all become worlds before they are recognized as frames. Threshold recursion is the moment a door out of one pattern becomes the room of the next.
+
+
+The threshold can become the next room.
+
+This is the route's hardest warning. The frame that helped you see one capture may become the frame that captures your next motion. The vocabulary that released you may begin deciding what feels visible, noble, forbidden, or necessary. The no that protected you may become a costume. The pause may become a house.
+
+Human beings do not live without patterns. We live through family stories, inherited roles, wounds, promises, class, nation, language, metrics, rooms, and names. The danger is not that these are unreal. The danger is that they become so real in practice that we forget they are frames. Then we stop using them and begin being used by them.
+
+The human test is therefore plain: after the gate opens, can you still leave the world it opened? Can the insight return to a cup, a message, a child, a document, a repair? Or has the threshold become another place to hide?
+
+# 0E. Stop Becoming Fuel
+
+The first movement is often negative. Stop becoming fuel. Do not feed the frame that converts injury, fear, debt, outrage, obedience, identity, or certainty into further capture. This is not purity, and it is not withdrawal from the room. It is the refusal to give the automatic system better energy.
+
+Then test the next motion again. Consciousness can be lost and recovered. A pause from yesterday does not cleanse the hand today. The living brake is pulse, not certificate.
+
+This also means the interval has conditions. Hunger, debt, exhaustion, fear, and institutional dependency can shrink the space in which judgment returns. The route does not ask the reader to float above those pressures. It asks where the pressure is turning the reader into fuel before the reader can see it.
+
+The threshold is not the fantasy of never entering the game. Sometimes the game must be read from inside. The question is whether the person can read the bait without eating it, read the crown without wearing it, and read the move without becoming the move.
+
+A useful test is simple:
+
+Am I returning to judgment, or am I producing another move?
+
+Did this pause return me to the room, or did it make me better at the game?
+
+Have I stopped becoming fuel, or have I only found a cleaner way to burn?
 
 # 1. What This Route Is
 

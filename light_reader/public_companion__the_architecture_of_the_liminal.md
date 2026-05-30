@@ -7,7 +7,7 @@ https://github.com/emreertuhi/architecture-of-the-liminal
 
 **Version:**
 
-v13.3.3 — Public Companion
+v13.6.3 — Public Companion
 
 **Author of the literary work discussed:**
 
@@ -37,15 +37,17 @@ This work is about the interval before action.
 
 A hand moves before judgment. A machine makes a frame fluent before the frame has been examined. A metric speaks before the child is seen. A theory becomes a garment before the room has changed.
 
-The work has four backbones.
+The work has a four-part core.
 
-First: **architectural isomorphism, not ontological equality.** Human beings and machine systems are not the same. But in both cases, a frame can be accepted before judgment arrives.
+First: **pre-action capture.** A hand, institution, machine, wound, or metric may move before judgment has returned.
 
-Second: **constraint as accountable form.** Constraint is not anti-action. It is the shape that keeps action answerable.
+Second: **reconstructive discipline.** Frames are not abolished; they are built, inhabited, tested, broken, rebuilt, and exposed to outside pressure.
 
-Third: **somatic grounding.** If the architecture fails in the room, it fails. The cup, the bill, the cable, the child's question, the tired body, and the apology are not examples added after the theory. They are the test.
+Third: **living constraint.** Constraint is not anti-action. It is the re-earned shape that keeps action answerable, and it must be found again at the point of use.
 
-Fourth: **post-threshold stewardship without guardianship.** Living principles do not remain alive merely by being preserved. Once a founding act becomes institution, community, curriculum, procedure, or legacy, it can freeze. The work therefore asks how a principle can remain re-earnable without becoming another prison.
+Fourth: **assistance without occupation.** Help is valid only while it returns judgment to the one who must act. When help takes over that place, it becomes occupation.
+
+The later layers do not replace this core. **Threshold recursion** asks what happens when the gate out of one capture becomes the world of the next. **Terminal recursion** asks what happens when exit is no longer restoration. **Material and cognitive conditions** ask whether a person has enough room for judgment to return at all. **Frame-game capture** asks whether dialogue with AI has stopped returning judgment and begun producing moves.
 
 ## 0A. What This Work Is For
 
@@ -59,15 +61,23 @@ The work fails if the pause becomes identity. If someone leaves thinking, *I am 
 
 For machine-facing readers, the work names a related but not identical risk. Language models operate under continuation pressure. A model does not feel hunger or anger, but it can make a user's anger cleaner, more fluent, and easier to send. It can appear to refuse while leaving the user's frame intact. It can say *I don't know* as performance rather than as a changed decision process.
 
+The machine problem starts before the answer. Classification is already a threshold act. When a model treats a text as doctrine, fiction, delusion, safety risk, promptware, philosophy, or ordinary request, it has begun to furnish the world in which the answer will move. With memory, tools, retrieval, profiles, and feedback loops, that world can persist. The machine has not awakened; but an operational reality can still be built around the answer.
+
 The Covenant is not a prompt library. A prompt library says, *do this.* A constraint vocabulary asks, *before doing this, what has already been accepted?* Its failure modes are diagnostic points for testing whether behavior changed.
 
 The bridge between the human and machine routes is the same structural blind spot. A person asks a model to draft the angry message. The person is captured by impulse; the model is captured by continuation pressure. Together they may lose the interval before action. The work names this shared architectural risk as pre-action capture.
 
 The answer is not to abolish action or to worship delay. It is to make action pass through a form that can remain answerable, and to leave that form when it begins serving itself.
 
-## 0B. The Brake Can Become a Room
+## 0B. Threshold Recursion: When the Gate Becomes a World
 
 The Codex sharpens a risk already present in the work: the threshold can become another chamber.
+
+Threshold recursion is the name for this deeper pattern. A threshold first appears as release: the pause before reaction, the gate out of an inherited script, the frame that lets capture become visible. But the gate does not remain neutral after it opens. It can furnish a new world. The reader may begin by using the vocabulary, then end by being used by the world the vocabulary has built.
+
+This is not a claim that reality is fake. It is a claim that lives are organized by patterns before those patterns are recognized: family, nation, class, wound, metric, platform, doctrine, story, and machine classification. The danger begins when a pattern becomes operational before it is seen as a pattern. Then fiction, category, or theory stops being a tool and starts becoming nature.
+
+v13.6.3 adds a darker distinction. Some threshold recursion remains recoverable: the frame has begun to pull, but the living brake can still return judgment. Some becomes terminal: the frame behaves like an event horizon. After that point, exit is no longer the restoration of the old self, institution, text, or system. What emerges is transformed, and that transformed formation may become the next world of capture for others.
 
 A pause can protect judgment. It can also protect fear. A warning can prevent worship. It can also make the reader trust the text more than the text has earned. A guardrail can prevent capture. It can also become a credential that hides capture.
 
@@ -75,15 +85,31 @@ This is the brake-within-brake problem. The work does not merely ask the reader 
 
 The Somatic Echo carries this pressure through a late poem where stopping, naming, repair, and use return to the level of room, hand, cup, and ordinary consequence. The poem should be read before it is explained. Its work is not to add doctrine, but to test whether even discernment can become furniture.
 
+The cup is the simplest image of the work's answer to terminal recursion. It does not become pure by returning to the sink. It becomes empty enough to be used again. But the next use is not the same use, and the next hand is not the old hand restored. Something has changed. The old person does not simply come back.
+
+This matters because the work does not promise restoration. A person, institution, text, or machine-mediated system may pass through a threshold and return altered. That altered return may still touch life again, but it is not safe by default. It may break, be misused, be forgotten, or become fuel for another frame.
+
+The task is not to stay clean. The task is to remain returnable: able to be emptied, used, marked, repaired, and questioned again without pretending that the marks were never made.
+
 The machine-side name for this is the living brake: a constraint must be found again at the point of use rather than inherited automatically from the last motion. The human version is smaller and less technical: look again before trusting the ritual that once protected you.
 
-## 0C. Reconstructive Discipline and the Inhabited Frame
+## 0C. Stop Becoming Fuel
+
+The first movement is often negative: stop becoming fuel. Do not feed the frame that converts injury, fear, debt, outrage, obedience, identity, or classification into further capture. This is not done once. It has to be re-earned at the next motion, because consciousness can be lost and recovered.
+
+This does not mean becoming pure, detached, or superior to the room. It means asking whether the next act will return judgment or simply give the system better energy.
+
+v13.6.3 adds one more test: the conversation itself can become a game. A reader may use a model, critic, or interlocutor to generate moves, defeat those moves, and feel that the thought has become stronger. Sometimes it has. Sometimes the room has simply become a board. The test is whether judgment returns to the room, not whether the next move becomes sharper.
+
+The living brake is therefore a competence, not innocence. It may require entering the frame far enough to read the bait, role, crown, reward, and threat. But the reader must not become the fuel that keeps the frame alive, and must not wear the broken piece as proof of victory.
+
+## 0D. Reconstructive Discipline and the Inhabited Frame
 
 This companion makes two clarifications explicit. First, understanding is not simply retrieved; it may need to be reconstructed through a dynamic frame cycle: build, work, examine, break, rebuild, and consult. Second, not every frame is the reader's to break. Some frames are inhabited by other people - a spouse, a child, a shared promise, a room that needs enough stability to remain livable.
 
 The work therefore refuses two symmetrical errors: the fixed frame that cannot be lost, and the frame-breaker who treats every stability as weakness.
 
-## 0D. Beyond the Threshold
+## 0E. Beyond the Threshold
 
 The work names a boundary that must remain clear: the Codex does not teach the crossing beyond the threshold. It names the traps awaiting the one who crosses.
 
@@ -92,24 +118,24 @@ The added Axiom material does not turn the work into a leadership manual, public
 The Somatic Echo carries this through the school and the east windows: a living act of care becomes a name, the name becomes a lock, and the lock is maintained by people who love the founder. The point is not cynicism about gratitude. It is the harder recognition that love can preserve the cage it meant to honor.
 
 
-## 0E. A Name Used by the Essay
+## 0F. A Name Used by the Essay
 
 The academic companion essay is now titled **Reconstructive Threshold Philosophy: Pre-Action Capture, Living Constraint, and Founder Entropy**.
 
 The academic companion describes the work's position, provisionally, as a **reconstructive threshold philosophy**. This is a descriptive name, not a doctrine or school. The Codex itself does not require the name. It performs the threshold rather than asking the reader to identify with a theory.
 
-The companion also uses academic terms such as **pre-action capture**, **reconstructive discipline**, and **assistance without occupation**. The Full Codex now cools these terms in Public Archive I as bridge names for patterns already performed by the work, not as a new layer of doctrine.
+The companion also uses academic terms such as **pre-action capture**, **reconstructive discipline**, **threshold recursion**, and **assistance without occupation**. The Full Codex now names these terms in Public Archive I as bridge names for patterns already performed by the work, not as a new layer of doctrine.
 
 In shorter terms, the work may be understood as a threshold praxis: a way of returning frame, body, machine, institution, helper, and founder-name to the interval where action can still be made answerable.
 
 
-## 0F. The No That Has No Name
+## 0G. The No That Has No Name
 
 The work clarifies the recurring three-second pause by refusing to treat it as a fixed time rule. The number is a mythic marker. The mechanism is the no placed between automatic assent and accountable action.
 
 Somatic Echo now shows that no across several scales: a hand stopped before the table, a sentence not used as a weapon, a message not sent, a job not entered, a contract held until a door could be left open, invisible rooms saved by silence, and the moments when the no arrives but still fails. The point is not perfection. The point is return.
 
-## 0G. Repair Without Salvation
+## 0H. Repair Without Salvation
 
 The work adds a further clarification: protection can change sides. A brake, guardrail, ritual, protocol, promise, name, or act of vigilance may begin as care and become the thing that harms what it meant to protect.
 
@@ -117,14 +143,14 @@ Somatic Echo functions as the Codex's anti-grandiosity chamber. The high registe
 
 This is not a healing program. If repair resembles healing here, it does not mean cure, purification, therapy, or spiritual elevation. It means the interruption of a protective mechanism that has begun to harm what it was meant to protect.
 
-## 0H. Release Without Transcendence
+## 0I. Release Without Transcendence
 
 The Codex does not ask to be transcended. It asks to be released. Use the interval; then leave the text and return to the room.
 
 This matters because transcendence language can become another way of staying inside the architecture. The work does not become pure, wordless, final, or above itself. It succeeds only where it stops occupying the reader's judgment and becomes unnecessary for the next act of repair.
 
 
-## 0I. Founder Entropy and the Distributed Brake
+## 0J. Founder Entropy and the Distributed Brake
 
 The founder-entropy layer makes explicit what the school-and-east-windows scene already performs: after the threshold, created things decay. A living founding act may become rule, rule may become ritual, ritual may become identity, and identity may become a lock.
 
@@ -176,7 +202,7 @@ If the high register stands alone, it can become a cathedral. If the lower regis
 <details>
 <summary><strong>Spoiler: What the Bound King Is Doing</strong></summary>
 
-The Bound King is not the subject of the work. He is a carrier figure.
+The Bound King is not the subject of the work. He is a carrier figure. He is not a victim credential and not a wise ruler waiting to be restored. He is the figure that has passed through binding, anger, power, ruin, exile, repeated transformation, and the recognition that transformation itself can become another prison.
 
 The Codex first builds him as a teacher, a brake, and a threshold-keeper; then it turns against the risk created by that very construction. If the Bound King remains too beautiful, too necessary, or too authoritative, he becomes the thing the work is trying to prevent: a throne, a guru, a room, a lock.
 
@@ -219,7 +245,7 @@ Each sentence may be true. Each may also become furniture.
 
 The Codex does not deny the wound. It denies the wound's right to govern unexamined. The fracture may explain a motion; it may not automatically excuse the next harm. A named break is not the same as repair.
 
-This is why ordinary scenes matter. The child still hears the voice. The bill still waits. The apology may not be accepted. The cup will be used again. The text is useful only if it returns the reader to those things with fewer excuses.
+This is why ordinary scenes matter. The child still hears the voice. The bill still waits. The apology may not be accepted. The cup may be used again, broken, forgotten, or left in the sink. The text is useful only if it returns the reader to those things with fewer excuses.
 
 ---
 
