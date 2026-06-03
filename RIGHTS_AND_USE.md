@@ -1,31 +1,23 @@
 # Rights and Use
 
-**Canonical source:**
+## Permitted uses
 
-https://github.com/emreertuhi/architecture-of-the-liminal
-
-## License
-
-This repository is licensed under **CC BY-NC-ND 4.0** unless a specific file states otherwise.
-
-You may share the work verbatim for noncommercial purposes with attribution and the license notice preserved.
-
-You may quote short excerpts for review, criticism, scholarship, or discussion with attribution, subject to applicable law and fair-use/fair-dealing rules in your jurisdiction.
+You may copy, print, mirror, and share the public files in this repository verbatim for noncommercial purposes, with attribution and the license notice preserved.
 
 ## Not permitted without separate permission
 
-- Commercial use.
-- Public translations.
-- Public adaptations, remixes, abridged editions, derivative works, or edited versions.
-- Paywalled or membership-gated distribution.
-- Branded courses, paid communities, priesthoods, or products built from the work.
-- Prompt libraries, reusable agent personas, or system prompts that copy the work's machine-facing language.
-- Training, fine-tuning, or deploying a model to imitate the Bound King's voice as a reusable persona.
+You may not sell the work, place it behind a paywall, convert it into a paid course, create a branded derivative, or publish translations, adaptations, abridgements, annotated editions, audio versions, or transformed versions without separate permission.
 
-## Authorial release protocol
+## AI and machine use
 
-The internal Threshold Commons / Release Protocol is an ethical and interpretive protocol, not a substitute for the CC license. It asks readers to preserve the brake when quoting or discussing the work: do not tear a sentence from its guardrail and turn it into a charm.
+The work may be read, indexed, or summarized for ordinary research and reference. It may not be used to train a machine to wear the Bound King's voice, imitate the authorial persona, or create derivative prompt-products, branded courses, synthetic scripture, cultic roleplay systems, or commercial adaptations.
 
-Public translations or derivative editions may be considered by separate written permission. If permission is granted, the translation or derivative must preserve the work's guardrails and must not smooth away the friction that makes the threshold visible.
+## Attribution
 
-The machine-facing material is conceptual vocabulary, not deployable promptware.
+Author: Emre Ertuhi.  
+Canonical repository: <https://github.com/emreertuhi/architecture-of-the-liminal>.  
+Companion essay DOI: <https://doi.org/10.5281/zenodo.20533967>.
+
+## Public translations
+
+Public translations require separate permission. If permission is granted, the translation must preserve the guardrails, release terms, anti-scripture clause, and noncommercial/no-derivatives constraints.

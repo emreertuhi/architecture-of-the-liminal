@@ -1,24 +1,21 @@
 cff-version: 1.2.0
-title: "The Architecture of the Liminal"
+message: "If you use this work, please cite the companion essay and link to the canonical repository."
+title: "Reconstructive Threshold Philosophy: Pre-Action Capture, Living Constraint, and Founder Entropy"
 authors:
   - family-names: "Ertuhi"
     given-names: "Emre"
-version: 13.6.3
-date-released: 2026-05-29
-license: "CC-BY-NC-ND-4.0"
-doi: "10.5281/zenodo.20460371"
-repository-code: "https://github.com/emreertuhi/architecture-of-the-liminal"
+version: "v13.7.2"
+date-released: "2026-06-04"
+doi: "10.5281/zenodo.20533967"
 url: "https://github.com/emreertuhi/architecture-of-the-liminal"
-message: "Public reader-tier repository release: heavy_reader, light_reader, academic. Current Zenodo version DOI: 10.5281/zenodo.20460371. Earlier concept/version-family DOI retained in README: 10.5281/zenodo.20369746."
+license: "CC-BY-NC-ND-4.0"
 preferred-citation:
-  type: generic
-  title: "Reconstructive Threshold Philosophy: Pre-Action Capture, Living Constraint, and Founder Entropy"
+  type: article
   authors:
     - family-names: "Ertuhi"
       given-names: "Emre"
+  title: "Reconstructive Threshold Philosophy: Pre-Action Capture, Living Constraint, and Founder Entropy"
   year: 2026
-  date-published: 2026-05-29
-  version: "v13.6.3"
-  publisher: "Zenodo"
-  doi: "10.5281/zenodo.20460371"
-  url: "https://doi.org/10.5281/zenodo.20460371"
+  version: "v13.7.2"
+  doi: "10.5281/zenodo.20533967"
+  url: "https://doi.org/10.5281/zenodo.20533967"
