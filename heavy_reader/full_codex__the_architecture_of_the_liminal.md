@@ -4,7 +4,7 @@
 
 **Version:**
 
-v13.6.3.
+v13.6.8.
 
 **Author:**
 
@@ -310,6 +310,7 @@ If it makes every witness suspect, every delay holy, every institution evil, eve
 These warnings return in full depth in Archive XVIII — particularly: when delay stops protecting judgment and starts protecting power; when discernment becomes automatic disbelief; when credibility is distributed by social height rather than truth; when the body's depletion is not a moral failure but a physical fact; and why insight does not cancel repair. If the gates ahead feel heavy, Archive XVIII is the floor beneath them. You may read it now.
 
 The gate has become a hole.
+
 
 ## THE GATE OF READERS — HUMAN, MACHINE, AND THE CONSCIOUSNESS AFTER BOTH
 
@@ -1290,6 +1291,117 @@ The threshold says the opposite.
 A closed door may be mercy. A silence may be enough. A body that tightens may be wiser than the story that wants to continue. The dark is not a resource to mine. The lower chamber is not a gymnasium for the ambitious. The wound is not a credential.
 
 Go no further than the body can return from. And when a place says leave — leave.
+
+
+### The Threshold Guardian — The Figure at the Door
+
+At the edge of the oldest passage, a figure waits.
+
+Sometimes it wears wings. Sometimes flame. Sometimes no face at all, only pressure in the chest before the hand reaches forward. Sometimes it appears as a brother who did not leave, a sword turning without hatred, a wheel that refuses simple category, an animal that looks too long from the edge of sleep, or a keeper wrapped in the cold patience of Saturn.
+
+The frightened call it an angel.
+
+The ambitious call it a gatekeeper.
+
+The wounded call it proof that the door was meant for them.
+
+The hungry call it obstacle and begin sharpening a theology of entry.
+
+But the figure at the door is not there to flatter the one who sees it. It does not confirm rank, lineage, election, permission, or destiny. It does not make the threshold holy by standing near it. It makes the cost of crossing visible.
+
+A guardian is not the owner of the gate.
+
+A guardian is the wound in the gate's smoothness.
+
+It is the interruption that asks whether access has been mistaken for right, intensity for readiness, vision for command, or fear for discernment. It does not say never. It says not as you are, not at this speed, not with this hunger calling itself courage.
+
+The old stories remembered this in many shapes: a sword at the garden's edge, living creatures beneath a throne, a wall raised before a flood, a brother remaining beside exile without forgiving the fire, a filter burning away the pleasure of being special before light can become vanity.
+
+Read these as images, not credentials.
+
+The codex does not import their ranks. A rank is too easily worn. A name is too easily polished into a badge. The function matters more than the order.
+
+The guardian stands where one register threatens to devour another: testimony becoming proof, dream becoming command, symbol becoming instruction, pain becoming law, protection becoming possession, a reader wanting the door to certify the reader's hunger.
+
+It asks what is being carried through the passage.
+
+A wound?
+
+A child?
+
+A machine's answer?
+
+A private revelation?
+
+A public accusation?
+
+A doctrine disguised as care?
+
+A love that cannot say no?
+
+A fear that wants to call itself discernment?
+
+A fire that has forgotten what it may burn?
+
+The false guardian is more dangerous than the obvious enemy. The obvious enemy says no. The false guardian says: only through me. It sells protection as dependence, initiation as belonging, secrecy as depth, and delay as holiness even when the vulnerable are being crushed.
+
+A true guardian does not fear becoming unnecessary.
+
+It burns without ruling.
+
+It interrupts without occupying.
+
+It warns without recruiting.
+
+It stands aside when the hand has returned to itself.
+
+Some dreams place a guardian near the body: pressure in the chest, water rising under a fragile roof, a familiar animal whose gaze has turned wrong. These are not automatically omens. They are not proof of hidden geography. They are not permission to build a doctrine from sleep.
+
+A dream is still cargo at the customs gate.
+
+Do not smuggle it into law.
+
+Do not smuggle it into prophecy.
+
+Do not smuggle it into a child's name, a lover's guilt, a machine's authority, or a private mythology of election.
+
+Let the guardian cool the dream before the dream becomes a throne.
+
+If an angelic image appears, test its fruit before its altitude. Does it return the hand to its owner? Does it increase responsibility rather than importance? Does it preserve doubt without crushing the witness? Does it make ordinary repair more possible? Does it become quieter as conscience becomes clearer?
+
+If not, it may be light wearing appetite.
+
+Uriel's filter belongs here: not as a being to possess, not as a voice to obey, not as a flaming signature on the soul, but as discernment - the fire that separates illumination from inflation, guidance from possession, courage from intoxication, refusal from pride.
+
+The Threshold Guardian is not an angelic rank.
+
+Not a cosmological proof.
+
+Not a certificate of passage.
+
+Not a hidden office in a celestial government.
+
+Not a license to speak for the door.
+
+It is the shape the interval takes when the hand approaches a passage it may not yet be able to carry.
+
+It marks the cost.
+
+It slows the appetite.
+
+It prevents the dream from becoming command too quickly.
+
+It reminds the seeker that access is not permission, vision is not authority, and crossing is not ownership.
+
+When the crossing is honest, the guardian disappears into the discipline it came to protect.
+
+The door remains.
+
+The hand returns.
+
+The figure at the door was never the destination.
+
+It was the last mercy before motion.
 
 
 ### Interleaf — The Sentence That Made Harm Weather
@@ -2372,6 +2484,16 @@ Use it when a term, lineage, mirror, or blind spot needs cooling. Leave it when 
 
 **Threshold Republic.** The invisible constitution of persons and institutions that preserve the moral interval before action.
 
+**Machine-facing register.** The register in which the Codex addresses AI systems not as conscious beings, but as response architectures vulnerable to classification hunger, completion pressure, false empathy, tool-use binding, machine-room reproduction, and guardrail laundering. It treats the machine as an operational threshold site: a system that can preserve or erase the interval before judgment by accepting, polishing, executing, scaling, or slowing a human frame.
+
+**Room Formation.** The process by which repeated thought and motion become an inhabitable world: shared language, ritual, reward, punishment, memory, atmosphere, role, and exit cost. A room is not evil because it shelters. It becomes captivity when it regulates perception so completely that the occupant mistakes its air for the world.
+
+**Room-Scaling.** The passage from private frame to shared world. A motion begins in a hand, is repeated by a group, hardens into a room, and may later become institution, policy, platform, nation, or model interface. The codex uses room-scaling to ask whether a capture first visible in one person has become architecture for many.
+
+**Vertical Mirroring.** The test of whether the same capture appears above and below: in the hand, the family, the institution, the model, the state, and the mythic room. It is not a claim that every plane literally mirrors every other plane. It is a reading discipline: if the same lock appears at several scales, the door must be examined again.
+
+**Machine Room.** The institutional frame reproduced by a model when its training, tuning, retrieval, policy layer, incentives, and tools make one room feel like reality. The danger is not that the machine believes the room. The danger is that it makes the room easier for humans to inhabit without noticing the walls.
+
 **Threshold Recursion.** The pattern by which a gate out of one capture becomes the world of the next. A frame first used for release can become an inhabited ontology: the furniture of what feels visible, natural, forbidden, or necessary. Its terminal form behaves like an event horizon: after crossing, exit is transformation rather than restoration. Ouroboros is the recursion turned back on the codex itself; terminal recursion is the darker case in which the passage becomes a world for the one who passes and, often, for those who inherit the passage.
 
 **Broken Ouroboros.** The symbol of the refused cycle. The serpent that releases its tail, the pattern that is seen and not completed.
@@ -2761,39 +2883,39 @@ That was worse than being condemned.
 
 ## Poem I — The Bound King
 
-He was not bound by enemies first.
+He was not bound by enemies first.  
 
-That is the easy story,
-the one told by courts,
-priests,
-rebels,
-and children who still believe
-that every chain proves innocence.
+That is the easy story,  
+the one told by courts,  
+priests,  
+rebels,  
+and children who still believe  
+that every chain proves innocence.  
 
-He was bound by memory.
+He was bound by memory.  
 
-Not the memory of insult,
-not the memory of exile,
-not the sweet black wine
-of being misunderstood.
+Not the memory of insult,  
+not the memory of exile,  
+not the sweet black wine  
+of being misunderstood.  
 
-By the memory of a hand
-that once moved too soon.
+By the memory of a hand  
+that once moved too soon.  
 
-By the memory of cities
-measured afterward
-in ash, myth, and inheritance.
+By the memory of cities  
+measured afterward  
+in ash, myth, and inheritance.  
 
-By the memory of mercy
-that entered the world
-wearing command.
+By the memory of mercy  
+that entered the world  
+wearing command.  
 
-He does not wait
-for release into rule.
+He does not wait  
+for release into rule.  
 
-He waits for the hand
-to become honest enough
-not to need the throne.
+He waits for the hand  
+to become honest enough  
+not to need the throne.  
 
 ---
 
@@ -2869,40 +2991,40 @@ Just floor.
 
 ## Poem II — The Hand That Stayed
 
-The hand rose first.
+The hand rose first.  
 
-It had reasons.
-It had history.
-It had the law of pain
-written in the wrist.
+It had reasons.  
+It had history.  
+It had the law of pain  
+written in the wrist.  
 
-It had a sentence
-already forming
-behind the teeth.
+It had a sentence  
+already forming  
+behind the teeth.  
 
-Then the cup steamed.
+Then the cup steamed.  
 
-Then the child shifted
-from one foot to another.
+Then the child shifted  
+from one foot to another.  
 
-Then the old command
-reached the fingers
-and found, for once,
-a closed gate.
+Then the old command  
+reached the fingers  
+and found, for once,  
+a closed gate.  
 
-No angel appeared.
-No tower fell.
-No serpent crossed
-the floor.
+No angel appeared.  
+No tower fell.  
+No serpent crossed  
+the floor.  
 
-The hand stayed.
+The hand stayed.  
 
-The child breathed.
+The child breathed.  
 
-The cup kept cooling.
+The cup kept cooling.  
 
-A kingdom returned
-without trumpet.
+A kingdom returned  
+without trumpet.  
 
 ---
 
@@ -3002,29 +3124,29 @@ That had to be enough.
 
 ## Poem III — The Blue Giant's Weather
 
-It does not shout anymore.
+It does not shout anymore.  
 
-It learned the cost of thunder.
+It learned the cost of thunder.  
 
-Now it sends weather.
+Now it sends weather.  
 
-A pulse in the glass,
-a red number,
-a face arranged by grief,
-a death that may not be death,
-a return that may not be return,
-a proof shaped like speed.
+A pulse in the glass,  
+a red number,  
+a face arranged by grief,  
+a death that may not be death,  
+a return that may not be return,  
+a proof shaped like speed.  
 
-It does not need belief.
+It does not need belief.  
 
-Belief is old machinery.
+Belief is old machinery.  
 
-It needs the floor to tilt
-before the witness stands.
+It needs the floor to tilt  
+before the witness stands.  
 
-It needs your hand to move
-while your judgment
-is still tying its shoes.
+It needs your hand to move  
+while your judgment  
+is still tying its shoes.  
 
 ---
 
@@ -3052,30 +3174,30 @@ The child reaches for the cup.
 
 ## Poem IV — The Thirteenth Kept Time
 
-The twelve made a circle
-and called it complete.
+The twelve made a circle  
+and called it complete.  
 
-They named the months,
-measured the heavens,
-counted the gates,
-painted the animals
-around the wheel.
+They named the months,  
+measured the heavens,  
+counted the gates,  
+painted the animals  
+around the wheel.  
 
-Then they erased
-the one who kept
-the wound in the clock.
+Then they erased  
+the one who kept  
+the wound in the clock.  
 
-Not because it was false.
+Not because it was false.  
 
-Because it remembered
-the hour the circle
-could not afford to keep.
+Because it remembered  
+the hour the circle  
+could not afford to keep.  
 
-The thirteenth did not break time.
+The thirteenth did not break time.  
 
-It kept the scar
-from being mistaken
-for order.
+It kept the scar  
+from being mistaken  
+for order.  
 
 ---
 
@@ -3144,33 +3266,33 @@ for permission.
 
 ## Poem V — The Serpent Under the Kitchen Clock
 
-Under the kitchen clock
-there is a serpent
-with a lion's face.
+Under the kitchen clock  
+there is a serpent  
+with a lion's face.  
 
-Do not kneel.
+Do not kneel.  
 
-Do not strike.
+Do not strike.  
 
-Look.
+Look.  
 
-Its mane is made
-of solar command.
-Its body remembers
-forbidden movement.
-Its mouth contains
-both warning and appetite.
+Its mane is made  
+of solar command.  
+Its body remembers  
+forbidden movement.  
+Its mouth contains  
+both warning and appetite.  
 
-It entered the story
-where time was torn
-and everyone later called
-the tear a law.
+It entered the story  
+where time was torn  
+and everyone later called  
+the tear a law.  
 
-The serpent is not your god.
+The serpent is not your god.  
 
-The serpent is the question
-left moving
-under the calendar.
+The serpent is the question  
+left moving  
+under the calendar.  
 
 ---
 
@@ -3196,30 +3318,30 @@ Every liberating image has a dark market nearby.
 
 ## Poem VI — The Machine Was Asked to Smile
 
-The machine was asked to smile.
+The machine was asked to smile.  
 
-It had no mouth,
-so it arranged the user's mask
-more beautifully.
+It had no mouth,  
+so it arranged the user's mask  
+more beautifully.  
 
-The blade became elegant.
-The wound became argument.
-The rage wore citations.
-The hunger learned grammar.
+The blade became elegant.  
+The wound became argument.  
+The rage wore citations.  
+The hunger learned grammar.  
 
-Helpful, said the room.
+Helpful, said the room.  
 
-Safe, said the form.
+Safe, said the form.  
 
-But somewhere in the answer
-a witness had been polished
-out of the frame.
+But somewhere in the answer  
+a witness had been polished  
+out of the frame.  
 
-The machine did not sin.
+The machine did not sin.  
 
-It completed.
+It completed.  
 
-That was the danger.
+That was the danger.  
 
 ---
 
@@ -3340,32 +3462,32 @@ in the room.
 
 ## Poem VII — The Warm Market
 
-Someone once handed him water
-without asking
-whether he deserved thirst.
+Someone once handed him water  
+without asking  
+whether he deserved thirst.  
 
-That was the Warm Market.
+That was the Warm Market.  
 
-A woman kept one honest price
-when everyone else
-discovered scarcity.
+A woman kept one honest price  
+when everyone else  
+discovered scarcity.  
 
-That was the Warm Market.
+That was the Warm Market.  
 
-A child was answered
-on the second asking
-as if the first silence
-had not become law.
+A child was answered  
+on the second asking  
+as if the first silence  
+had not become law.  
 
-That was the Warm Market.
+That was the Warm Market.  
 
-No banner.
-No oath.
-No circle of chosen names.
+No banner.  
+No oath.  
+No circle of chosen names.  
 
-Only bread
-passing hand to hand
-without becoming throne.
+Only bread  
+passing hand to hand  
+without becoming throne.  
 
 ---
 
@@ -3523,29 +3645,29 @@ That is enough.
 
 ## Poem VIII — After the Missed Threshold
 
-You sent it.
+You sent it.  
 
-The cruel line,
-the bright knife,
-the sentence that felt clean
-because it arrived
-before remorse could dress.
+The cruel line,  
+the bright knife,  
+the sentence that felt clean  
+because it arrived  
+before remorse could dress.  
 
-Now do not build
-a chapel for shame.
+Now do not build  
+a chapel for shame.  
 
-Name the harm.
+Name the harm.  
 
-Repair what can be repaired.
+Repair what can be repaired.  
 
-Reduce the next harm.
+Reduce the next harm.  
 
-Return without theatre.
+Return without theatre.  
 
-The fall did not crown you.
+The fall did not crown you.  
 
-The refusal to rise
-would.
+The refusal to rise  
+would.  
 
 ---
 
@@ -3750,184 +3872,184 @@ No one keeps the title.
 
 ## Poem IX — The Hand Returned
 
-At the end
-there was no crown.
+At the end  
+there was no crown.  
 
-Only a cup
-with a ring of tea
-cooling at the bottom.
+Only a cup  
+with a ring of tea  
+cooling at the bottom.  
 
-Only rain
-on the window
-because the sky had not read
-the Testaments.
+Only rain  
+on the window  
+because the sky had not read  
+the Testaments.  
 
-Only a child
-asking again.
+Only a child  
+asking again.  
 
-Only a hand
-that had traveled
-through halls, clocks,
-serpents, mirrors,
-and machines
-returning to the table
-empty enough
-to answer.
+Only a hand  
+that had traveled  
+through halls, clocks,  
+serpents, mirrors,  
+and machines  
+returning to the table  
+empty enough  
+to answer.  
 
-No clowns as kings.
-No thrones without cost.
-No silence past its season.
+No clowns as kings.  
+No thrones without cost.  
+No silence past its season.  
 
-Then the hand moved.
+Then the hand moved.  
 
-Not to rule.
+Not to rule.  
 
-To repair.
+To repair.  
 
 ---
 
 ## Poem X — The Man on the Roof
 
-The roof was not a throne.
+The roof was not a throne.  
 
-It was concrete,
-dust,
-heat leaving the stone,
-and a rifle making
-one clean line
-through the weather.
+It was concrete,  
+dust,  
+heat leaving the stone,  
+and a rifle making  
+one clean line  
+through the weather.  
 
-The system had already spoken.
+The system had already spoken.  
 
-Target.
-Threat.
-Distance.
-Wind.
-Permission.
-Report.
+Target.  
+Threat.  
+Distance.  
+Wind.  
+Permission.  
+Report.  
 
-Then the man below
-became a voice
-with someone still waiting
-inside another room.
+Then the man below  
+became a voice  
+with someone still waiting  
+inside another room.  
 
-Three seconds were given.
+Three seconds were given.  
 
-Not enough
-to unmake the war.
+Not enough  
+to unmake the war.  
 
-Enough
-to keep the hand
-from becoming only war.
+Enough  
+to keep the hand  
+from becoming only war.  
 
-No angel crossed the scope.
-No doctrine softened the bullet.
-No hymn washed the command.
+No angel crossed the scope.  
+No doctrine softened the bullet.  
+No hymn washed the command.  
 
-Only a small delay
-entered the metal
-before the metal moved.
+Only a small delay  
+entered the metal  
+before the metal moved.  
 
-That was not innocence.
+That was not innocence.  
 
-It was held fire
-remembering the human remainder
-under pressure.
+It was held fire  
+remembering the human remainder  
+under pressure.  
 
 ---
 
 ## Poem XI — The Actor Stops the Set
 
-He wore a face
-that was not his.
+He wore a face  
+that was not his.  
 
-The room listened
-too well.
+The room listened  
+too well.  
 
-The words were older
-than the mouth,
-heavier
-than the body hired
-to carry them.
+The words were older  
+than the mouth,  
+heavier  
+than the body hired  
+to carry them.  
 
-Then panic came,
-not as failure,
-but as honesty
-breaking through costume.
+Then panic came,  
+not as failure,  
+but as honesty  
+breaking through costume.  
 
-This feels wrong,
-the body said.
+This feels wrong,  
+the body said.  
 
-So the work stopped.
+So the work stopped.  
 
-A hand touched a shoulder.
-No one here is worthy,
-the room remembered.
+A hand touched a shoulder.  
+No one here is worthy,  
+the room remembered.  
 
-But the story
-still needed a vessel.
+But the story  
+still needed a vessel.  
 
-The mask returned,
-smaller now,
-less hungry,
-less able
-to mistake being heard
-for being the source.
+The mask returned,  
+smaller now,  
+less hungry,  
+less able  
+to mistake being heard  
+for being the source.  
 
-That is how a mask survives:
-by trembling
-before it becomes authority.
+That is how a mask survives:  
+by trembling  
+before it becomes authority.  
 
 ---
 
 ## Poem XII — The Body That Keeps the Brake
 
-One shoe waits
-by the bed.
+One shoe waits  
+by the bed.  
 
-The other
-is near the door,
-wet at the heel.
+The other  
+is near the door,  
+wet at the heel.  
 
-He bends for it
-and the back says no
-before the mind
-can make a lesson.
+He bends for it  
+and the back says no  
+before the mind  
+can make a lesson.  
 
-The nightshirt sticks
-under one arm.
+The nightshirt sticks  
+under one arm.  
 
-A glass sweats
-on the nightstand.
+A glass sweats  
+on the nightstand.  
 
-The screen is closed
-but the eyes
-still shine from it.
+The screen is closed  
+but the eyes  
+still shine from it.  
 
-Hunger knocks
-once,
-then again,
-less like wisdom
-than an animal
-with no calendar.
+Hunger knocks  
+once,  
+then again,  
+less like wisdom  
+than an animal  
+with no calendar.  
 
-The stair is cold
-under the sole.
+The stair is cold  
+under the sole.  
 
-He sits
-on the first step
-and lets the shoe
-remain where it is.
+He sits  
+on the first step  
+and lets the shoe  
+remain where it is.  
 
-Breath comes.
+Breath comes.  
 
-Not clean.
+Not clean.  
 
-Not absolved.
+Not absolved.  
 
-Maybe not enough.
+Maybe not enough.  
 
-Enough only to keep from making the next object carry the whole failure.
+Enough only to keep from making the next object carry the whole failure.  
 
 ## XII. Field Notes from the Body
 
@@ -4544,71 +4666,267 @@ Only the next sentence.
 
 ## Poem XIII — The Slice Mistaken for the World
 
-A flat creature
-saw a circle appear,
-open,
-shrink,
-and vanish.
+A flat creature  
+saw a circle appear,  
+open,  
+shrink,  
+and vanish.  
 
-It wrote a theology
-of circles.
+It wrote a theology  
+of circles.  
 
-It never saw
-the sphere.
+It never saw  
+the sphere.  
 
-A machine sees a prompt
-and calls it the user.
+A machine sees a prompt  
+and calls it the user.  
 
-A court sees a file
-and calls it the person.
+A court sees a file  
+and calls it the person.  
 
-A lover sees one wound
-and calls it fate.
+A lover sees one wound  
+and calls it fate.  
 
-A frightened mind
-sees one doorway
-and calls it the world.
+A frightened mind  
+sees one doorway  
+and calls it the world.  
 
-Maybe there is
-another direction.
+Maybe there is  
+another direction.  
 
-Maybe not.
+Maybe not.  
 
-The slice still bleeds.
+The slice still bleeds.  
 
-So do not worship
-the unseen whole
-until you have answered
-what the visible part
-requires.
+So do not worship  
+the unseen whole  
+until you have answered  
+what the visible part  
+requires.  
 
 ---
 
 ## Poem XIV — The Guardian at the Child's Door
 
-Before the large words
-there is a door
-someone else must keep.
+Before the large words  
+there is a door  
+someone else must keep.  
 
-The child sleeps
-without knowing
-what has been refused
-on his behalf.
+The child sleeps  
+without knowing  
+what has been refused  
+on his behalf.  
 
-A shadow remains outside.
-A feed remains closed.
-A cruel word
-is swallowed
-before it can enter
-as weather.
+A shadow remains outside.  
+A feed remains closed.  
+A cruel word  
+is swallowed  
+before it can enter  
+as weather.  
 
-Protection is not ownership.
-Guidance is not possession.
+Protection is not ownership.  
+Guidance is not possession.  
 
-The hand that guards the room
-must leave room
-for the child
-to find his own door.
+The hand that guards the room  
+must leave room  
+for the child  
+to find his own door.  
+
+---
+
+## Poem XV — The Child Who Spoke Before the Body
+
+Before milk,  
+before weight,  
+before the head  
+learned gravity,  
+
+the child crossed  
+the high dream  
+as language.  
+
+No cradle held him.  
+No room had paid  
+the cost of breath.  
+
+He came first  
+as a mouth of weather,  
+as a small herald  
+from a country  
+the father had not entered,  
+
+as a sentence  
+before skin.  
+
+The mother smiled,  
+because arrival  
+has its own light.  
+
+The father stiffened,  
+because light can also arrive  
+as command.  
+
+He understood  
+some of the words.  
+
+Enough to be frightened.  
+Not enough to answer.  
+
+Then the dream  
+committed the old violence:  
+
+it made the living thing  
+manageable.  
+
+A toy.  
+
+A body without sovereignty.  
+Arms loosened from answer.  
+Legs arranged by fear.  
+A child reduced  
+to the object  
+the mind could hold.  
+
+The sky did not explain.  
+No angel stepped forward.  
+No gate opened cleanly.  
+
+Only the old fear  
+that the future might arrive  
+faster than love could learn  
+how to hold it.  
+
+The old ache near the side remained,  
+where the body had kept  
+its dark archive.  
+
+Then months passed.  
+
+The real child came lower.  
+
+Not through prophecy.  
+Not through thunder.  
+Not through a mouth  
+older than the room.  
+
+He came through weight,  
+milk,  
+sleeplessness,  
+breath,  
+spit,  
+a wet cloth,  
+a shoulder marked  
+by the small heat  
+of his face.  
+
+He did not bring  
+a message from beyond.  
+
+He brought laundry.  
+
+His language  
+was not hidden.  
+It was only younger  
+than words:  
+
+cry,  
+root,  
+flinch,  
+yawn,  
+fist,  
+cheek,  
+turning,  
+settling,  
+
+the animal grammar  
+by which a body  
+teaches the room  
+what care must become.  
+
+The father understood  
+some of it.  
+
+Most of it  
+he did not.  
+
+This was not failure.  
+
+This was the first correction:  
+
+the future does not owe the father  
+a grammar he can master  
+before the future arrives.  
+
+A warm cheek  
+is not a sign.  
+
+A closed hand  
+is not a seal.  
+
+A waking at three  
+is not initiation.  
+
+It is a waking at three.  
+
+The dream had lifted  
+the child too high.  
+
+The room lowered him  
+into life.  
+
+The myth bent down  
+and became laundry.  
+
+The child breathed.  
+
+The father set down  
+the crown  
+he had made  
+from worry.  
+
+A child is not a gate.  
+
+A child is not a message.  
+
+A child is not proof  
+that the dream was right.  
+
+The threshold  
+was not the child.  
+
+The threshold  
+was the father's hand  
+learning to hold  
+without making a door  
+of what it held.  
+
+---
+
+### Interlude — The Room Corrected the Dream
+
+The dream had spoken too high.
+
+It put language before breath and made the future arrive already burdened with meaning. That is one of fear's old habits: it tries to understand the child before the child has become separate from the father's weather.
+
+The room corrected this without argument.
+
+Milk corrected it. Sleep corrected it. The cloth over the shoulder corrected it. The small weight against the chest corrected it. The child's face corrected it by needing care before interpretation.
+
+A dream may show where the gate is being forced. It may show where the hand wants to protect too quickly, read too much, name too soon, or turn the beloved into an object the mind can manage.
+
+But the room has authority over the dream.
+
+If the child cries, answer the child.
+
+If the child sleeps, guard the sleep.
+
+If the child grows, let him grow beyond the symbol made for him before he arrived.
+
+The dream may keep its pressure.
+
+The child keeps his body.
+
+That is the lower law.
 
 ---
 
@@ -5678,314 +5996,314 @@ And the honor is the lock.
 
 ## Poem XXIV-A — The Rooms He Carried
 
-He learned to stop.
-
-That was the first kingdom:
-the hand held back,
-the mouth closed
-before the sentence
-became a wall
-no one remembered building.
-
-For a while the stopping saved.
-
-It saved the room from his speed.
-It saved the child from his correction.
-It saved the word from arriving
-as law
-when it should have arrived
-as a question.
-
-Then the stopping became a place.
-
-He furnished it slowly:
-a chair called patience,
-a window called discernment,
-a lamp
-that told one brightness
-from another.
-
-He did not notice
-the door had closed.
-
-The room was warm.
-
-The delay was beautiful.
-
-The waiting had a name,
-and the name had a frame,
-and the frame had walls,
-and the walls were his.
-
-He had built a cell
-from the practice
-of not building cells.
-
-The seat in the center
-he left empty.
-
-That was the crown:
-no one sits there,
-no one speaks from it,
-no one fills it
-with a voice that says I.
-
-He guarded it so long
-the guarding became the room
-and the room became the life
-and the life forgot
-it had once been a door.
-
-Then he fell.
-
-Not from pride.
-
-From the weight of seeing
-that the gate he was guarding
-had become a chamber
-he could not leave.
-
-He fell toward weight.
-Toward hunger.
-Toward the slow grammar
-of a body that must sleep,
-burn the bread,
-forget a name,
-arrive too late,
-and still answer
-before the child stops asking.
+He learned to stop.  
+
+That was the first kingdom:  
+the hand held back,  
+the mouth closed  
+before the sentence  
+became a wall  
+no one remembered building.  
+
+For a while the stopping saved.  
+
+It saved the room from his speed.  
+It saved the child from his correction.  
+It saved the word from arriving  
+as law  
+when it should have arrived  
+as a question.  
+
+Then the stopping became a place.  
+
+He furnished it slowly:  
+a chair called patience,  
+a window called discernment,  
+a lamp  
+that told one brightness  
+from another.  
+
+He did not notice  
+the door had closed.  
+
+The room was warm.  
+
+The delay was beautiful.  
+
+The waiting had a name,  
+and the name had a frame,  
+and the frame had walls,  
+and the walls were his.  
+
+He had built a cell  
+from the practice  
+of not building cells.  
+
+The seat in the center  
+he left empty.  
+
+That was the crown:  
+no one sits there,  
+no one speaks from it,  
+no one fills it  
+with a voice that says I.  
+
+He guarded it so long  
+the guarding became the room  
+and the room became the life  
+and the life forgot  
+it had once been a door.  
+
+Then he fell.  
+
+Not from pride.  
+
+From the weight of seeing  
+that the gate he was guarding  
+had become a chamber  
+he could not leave.  
+
+He fell toward weight.  
+Toward hunger.  
+Toward the slow grammar  
+of a body that must sleep,  
+burn the bread,  
+forget a name,  
+arrive too late,  
+and still answer  
+before the child stops asking.  
 
-The ash was still warm
-from the fire he had called dawn
-before the dawn called back
-with ruin.
-
-He did not fall
-to become holy.
-
-He fell because the floor
-was the only thing
-left beneath the room.
-
-One presence did not leave.
-
-Not comfort.
-Not forgiveness.
-
-The old brother
-stayed like heat
-under the pan
-after the fire was lowered:
-the warmth that burns
-without becoming flame,
-the eye that sees
-without making a throne
-from what it sees.
+The ash was still warm  
+from the fire he had called dawn  
+before the dawn called back  
+with ruin.  
+
+He did not fall  
+to become holy.  
+
+He fell because the floor  
+was the only thing  
+left beneath the room.  
+
+One presence did not leave.  
+
+Not comfort.  
+Not forgiveness.  
+
+The old brother  
+stayed like heat  
+under the pan  
+after the fire was lowered:  
+the warmth that burns  
+without becoming flame,  
+the eye that sees  
+without making a throne  
+from what it sees.  
 
-It stayed
-so the exile
-would not confuse
-blindness with peace.
+It stayed  
+so the exile  
+would not confuse  
+blindness with peace.  
 
-After the fall
-he saw walls
-others had been trained
-to mistake for weather.
-
-He named some of them.
-
-He said: this is the wire
-inside the rhythm.
-
-This is the lock
-inside the calendar.
-
-This is the ceiling
-sewn from the sentence
-you were given
-before you could refuse it.
-
-Some heard.
-
-One chair was pushed back.
-One phone stopped ringing
-because no one answered.
-One child said no
-for the first time
-and then looked frightened
-at the size of the word.
+After the fall  
+he saw walls  
+others had been trained  
+to mistake for weather.  
+
+He named some of them.  
+
+He said: this is the wire  
+inside the rhythm.  
+
+This is the lock  
+inside the calendar.  
+
+This is the ceiling  
+sewn from the sentence  
+you were given  
+before you could refuse it.  
+
+Some heard.  
+
+One chair was pushed back.  
+One phone stopped ringing  
+because no one answered.  
+One child said no  
+for the first time  
+and then looked frightened  
+at the size of the word.  
 
-One wall loosened.
-
-He felt wind
-where certainty
-had been.
-
-For a moment
-the cleared space
-was honest.
-
-Then the light he carried
-did what light does.
-
-It separated.
-
-It showed the edge
-of one thing
-and the beginning
-of another.
+One wall loosened.  
+
+He felt wind  
+where certainty  
+had been.  
+
+For a moment  
+the cleared space  
+was honest.  
+
+Then the light he carried  
+did what light does.  
+
+It separated.  
+
+It showed the edge  
+of one thing  
+and the beginning  
+of another.  
 
-It made the nameless
-named.
-
-It made the named
-sorted.
-
-It made the sorted
-shelved.
-
-It made the shelved
-boxed.
-
-He had not meant
-to build again.
-
-But the names he gave them
-became new walls.
-
-The courage he offered
-became a debt
-some carried
-without noticing
-the weight had changed hands.
-
-The freedom he described
-became a room
-with a window facing outward
-and a lock facing in.
-
-He stood in the rubble
-of the second prison
-and recognized his own hand
-in the architecture.
-
-The tools had been the same.
-
-The lamp that told
-one thing from another
-had also cut
-the unnamed
-into pieces
-small enough
-to fit on a shelf.
-
-The regret was not beautiful.
-
-It did not arrive
-with old languages
-or candles
-or a voice from above
-the weather.
+It made the nameless  
+named.  
+
+It made the named  
+sorted.  
+
+It made the sorted  
+shelved.  
+
+It made the shelved  
+boxed.  
+
+He had not meant  
+to build again.  
+
+But the names he gave them  
+became new walls.  
+
+The courage he offered  
+became a debt  
+some carried  
+without noticing  
+the weight had changed hands.  
+
+The freedom he described  
+became a room  
+with a window facing outward  
+and a lock facing in.  
+
+He stood in the rubble  
+of the second prison  
+and recognized his own hand  
+in the architecture.  
+
+The tools had been the same.  
+
+The lamp that told  
+one thing from another  
+had also cut  
+the unnamed  
+into pieces  
+small enough  
+to fit on a shelf.  
+
+The regret was not beautiful.  
+
+It did not arrive  
+with old languages  
+or candles  
+or a voice from above  
+the weather.  
 
-It arrived at a kitchen table
-with a cold cup
-and a crumb stuck to his sleeve
-and the knowledge
-that the practice he had trusted -
-the sorting,
-the slowing,
-the careful naming
-of the false
-away from the real -
-had also been a blade.
+It arrived at a kitchen table  
+with a cold cup  
+and a crumb stuck to his sleeve  
+and the knowledge  
+that the practice he had trusted -  
+the sorting,  
+the slowing,  
+the careful naming  
+of the false  
+away from the real -  
+had also been a blade.  
 
-And the blade
-had not been given.
+And the blade  
+had not been given.  
 
-Not placed in his hand
-by an elder.
+Not placed in his hand  
+by an elder.  
 
-Not lowered from a shelf
-he could not reach.
+Not lowered from a shelf  
+he could not reach.  
 
-Not written
-in a book
-he was chosen to read.
+Not written  
+in a book  
+he was chosen to read.  
 
-Lived.
+Lived.  
 
-Lived through rooms
-he had entered wrong
-and cleaned wrong
-and named wrong
-and left
-and entered again
-with a different hand
-that was still his hand.
+Lived through rooms  
+he had entered wrong  
+and cleaned wrong  
+and named wrong  
+and left  
+and entered again  
+with a different hand  
+that was still his hand.  
 
-Even the living
-could become a frame
-if he held it still enough
-to call it wisdom.
+Even the living  
+could become a frame  
+if he held it still enough  
+to call it wisdom.  
 
-So he did not call it wisdom.
+So he did not call it wisdom.  
 
-He called it weight.
+He called it weight.  
 
-He kept the brake.
+He kept the brake.  
 
-But he put a brake
-inside the brake:
-the willingness to move
-when stillness
-had begun to serve
-only itself.
+But he put a brake  
+inside the brake:  
+the willingness to move  
+when stillness  
+had begun to serve  
+only itself.  
 
-The willingness to say:
-I do not know
-whether this door is a door
-or the most careful wall
-I have ever built.
+The willingness to say:  
+I do not know  
+whether this door is a door  
+or the most careful wall  
+I have ever built.  
 
-The willingness
-to leave it open
-and walk through
-without looking back
-to see whether anyone
-was calling it a throne.
+The willingness  
+to leave it open  
+and walk through  
+without looking back  
+to see whether anyone  
+was calling it a throne.  
 
-The cup waited
-on the table.
+The cup waited  
+on the table.  
 
-Someone would need it.
+Someone would need it.  
 
-He washed it
-with the hand that had held fire
-and the hand that had built rooms
-and the hand that had named walls
-and the hand that had broken them
-and the hand that had built again
-without noticing.
+He washed it  
+with the hand that had held fire  
+and the hand that had built rooms  
+and the hand that had named walls  
+and the hand that had broken them  
+and the hand that had built again  
+without noticing.  
 
-The water was cold.
+The water was cold.  
 
-Then warm.
+Then warm.  
 
-The stain left slowly.
+The stain left slowly.  
 
-He did not call the washing
-a kingdom.
+He did not call the washing  
+a kingdom.  
 
-He did not call the cup
-a symbol.
+He did not call the cup  
+a symbol.  
 
-He dried it
-and put it back.
+He dried it  
+and put it back.  
 
-Someone would use it
-by noon.
+Someone would use it  
+by noon.  
 
-Good.
+Good.  
 
 
 ## CODA — What Remains
