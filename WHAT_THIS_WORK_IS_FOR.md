@@ -1,19 +1,39 @@
 # What This Work Is For
 
-*The Architecture of the Liminal* is a literary-philosophical work about the interval before action: the place where a hand, system, institution, wound, metric, interface, or symbol can become motion before review, judgment, or consequence has returned.
+**Zenodo DOI:** <https://doi.org/10.5281/zenodo.20547058>
 
-It is not a scripture, doctrine, therapy, hidden cosmology, spiritual credential, software protocol, AI agent specification, or political program. Its mythic figures are literary devices. Its machine-facing language is structural, not a claim of machine consciousness.
+*The Architecture of the Liminal* is for readers trying to understand the interval before action: the place where a frame, wound, institution, platform, machine answer, founding name, or room can begin moving before judgment has returned.
 
-The work is for readers who want to examine how capture begins before visible action: in inherited frames, institutional rooms, technological interfaces, machine completion pressure, founder names, crowds, wounds, and habits that move before they are recognized as movement.
+It is not written to give a doctrine. It is written to make a mechanism visible.
 
-The work is also for readers who want a brake without turning the brake into a throne. It asks for a pause, but not paralysis; discernment, but not automatic disbelief; assistance, but not occupation; reconstruction, but not endless evasion.
+The central mechanism is simple: a force meant to protect judgment can itself become capture. A brake can become a lock. A method can become a throne. Help can become occupation. A founder can become the name that forbids renewed seeing. A guardrail can become proof of innocence while failing to stop the motion it names. A text about capture can become a new capture if the reader cannot put it down.
 
-The short form is this:
+The companion essay names this as Reconstructive Threshold Philosophy: a regulative framework for testing the interval before action and for auditing the corrective itself. The Full Codex carries the same pressure through literary, mythic, somatic, and machine-facing registers.
 
-Stop, but do not hide.  
-See, but do not worship what you see.  
-Doubt, but do not crush the witness.  
-Wait, but do not delay repair.  
-Move, but do not sit on the throne.
+The work is for:
 
-Use the interval. Then leave the text and return to the room.
+- readers who want to slow the action before the action;
+- writers, researchers, and builders concerned with frames that become rooms;
+- people thinking about AI assistance, completion pressure, and guardrail laundering;
+- communities trying to preserve living principles without turning them into founder worship;
+- institutions, platforms, and tools that need brakes without making the brake into another form of control;
+- anyone trying to distinguish a living threshold from a locked room.
+
+The work is not for:
+
+- building a cult, school, or brand around the threshold;
+- using the Codex as spiritual proof, therapeutic protocol, technical specification, or AI agent design;
+- bypassing medicine, law, ordinary responsibility, repair, family, work, or embodied care;
+- converting symbolic figures into literal cosmology or personal authority;
+- treating doubt as superiority or delay as holiness.
+
+The practical test is ordinary:
+
+Did the pause change the next motion?  
+Did the brake return judgment, or did it become an excuse?  
+Did assistance return agency, or occupy it?  
+Did the room preserve exit and revision?  
+Did the founder's name keep the principle alive, or prevent it from being renewed?  
+Did the reader leave the text more able to repair the next ordinary thing?
+
+If the work becomes a garment, put it down.
