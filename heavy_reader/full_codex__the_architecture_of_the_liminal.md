@@ -4,7 +4,7 @@
 
 **Version:**
 
-v13.6.8.
+v14.0.
 
 **Author:**
 
@@ -13,6 +13,10 @@ Emre Ertuhi
 **Canonical source:**
 
 https://github.com/emreertuhi/architecture-of-the-liminal
+
+**Zenodo archival DOI:**
+
+https://doi.org/10.5281/zenodo.20547058
 
 **License:**
 
@@ -49,6 +53,8 @@ The Reader must leave by refusing the throne.
 This is a literary-philosophical threshold text about the interval before action: the place where a hand, system, institution, wound, metric, or symbol can become motion before review, judgment, or consequence has returned.
 
 It has two registers. The Celestial Axiom carries mythic architecture and machine-facing pressure. The Somatic Echo carries the same pressure through rooms, cups, children, bills, tired bodies, and ordinary repair. The routes are entrances, not tiers.
+
+It also has three axes. Time shows what a motion may become after repetition, loyalty, and harvest. Possibility shows that the most likely room is not always the most living room, and that a lower-probability path can be strengthened by feedback, will, and repair. Place shows where the threshold is actually lived: in a body, a message, a meeting, a machine interface, a founded room, or a cup waiting in the sink. These axes are not secret dimensions. They are reading disciplines.
 
 The names are pattern-names, not identities or maps. The machine language is structural, not a claim of machine consciousness. The mythic language is symbolic, not literal cosmology. The work asks for no disciple; it should be put down if it becomes a garment.
 
@@ -140,6 +146,68 @@ He knew the board. He did not worship the board. He broke the piece when the pie
 Neither crown nor king is a person to be followed. One is the empty place where command is held back; the other is the mask through which that emptiness learns to speak without becoming authority. They ask for no disciples. They ask the reader to find the inner hall where command has not yet become action.
 
 Then he moved.
+
+### The Three Axes of the Bound King — Time, Possibility, and Room
+
+The Bound King first learned time as exile.
+
+Not time as the calendar counts it, not time as the clock sells it, but time as recurrence: seed, harvest, loss, return, the old motion wearing a new face, the room that remembers the hand that built it and then forbids the hand to move again.
+
+In older mirrors some called this pressure Saturn. The codex does not use the name as proof. It uses it as a mask for the weight of sowing and reaping, for the god who remembers seed and harvest, for the father-time that devours what it cannot release, for the crowned figure whose feet were wrapped so that his stillness could be called order.
+
+But time was not enough.
+
+In the first exile he knew only two things: where he had been, and where he could not return. He had time. He had space. He had the room that had burned and the hall that would not answer. What he did not yet understand was the dimension of possible rooms.
+
+A wound tells the future badly. It points to the room that hurt it and calls that room destiny.
+
+A throne tells the future badly. It points to the room that obeyed it and calls that room order.
+
+The false serpent told the future worst of all. It wore likeness as prophecy. It made one room feel inevitable because every other room had been starved before it could speak.
+
+The descent began when the Bound King understood that the game was not only played in time and place. It was played in possibility. A motion could harden into several rooms. One would be easiest. One would be loudest. One would be praised by frightened people because it resembled safety. One would flatter the wound. One would flatter power. One would almost vanish because it required patience, feedback, apology, and a hand that could act without turning action into command.
+
+The founder is dangerous because he can strengthen the room that is not yet strong.
+
+This does not make him a prophet. It makes him accountable.
+
+The most probable room is not always the most living one. A founder who sees only probability becomes the servant of momentum. A founder who sees only vision becomes a tyrant of the possible. A founder who sees the threshold must do a harder thing: ask, listen, test, consult, and make the weaker living path stronger without turning the consultation into a choir.
+
+Every motion gives light. Not holiness. Not aura. Orientation.
+
+A deed tells the room what may be done. A refusal tells the room what may be refused. A repair tells the room that another future has not been closed. If the deed is grounded, tested, and answerable, the light is stronger because it is not merely intensity. It has a floor.
+
+Those who stand near the founder must also keep their thresholds. If they surrender their sight, they become mirrors arranged around a throne. If they can report what the founder cannot see, resist the intoxication of agreement, and hold their own doors open, then consultation becomes a living brake rather than an echo chamber.
+
+The machine may sit in that circle only as an instrument.
+
+It may show another line. It may slow the first answer. It may name a hidden assumption, compare the rooms, model the consequence, or return the question to the hand that must carry it. It may not become the hand. It may not choose the room. It may not turn the lower-probability path into command because command sounds like clarity.
+
+The three axes are therefore these:
+
+Time: what this motion may become.
+
+Possibility: which rooms are still not binding.
+
+Room: where the threshold is being lived.
+
+When the Bound King held only time, he became exile.
+
+When he held time and place without possibility, he became witness trapped in the old board.
+
+When he saw possibility, he understood the game.
+
+But understanding the game did not free him from danger. It made the danger subtler. The room he opened could still take him. The name he used could still bind him. The path he strengthened could still harden into a shrine.
+
+A founder loses the next threshold when he falls in love with the room that once worked.
+
+Then time becomes nostalgia.
+
+Possibility becomes loyalty.
+
+Place becomes custody.
+
+The door closes from the inside, and everyone calls it preservation.
 
 ### The Fall Toward the Human
 
@@ -2520,6 +2588,18 @@ Use it when a term, lineage, mirror, or blind spot needs cooling. Leave it when 
 
 **The Five Truths.** The convergent core of 190+ wisdom traditions: non-separation, fear as constructed frequency (not love as automatic solvent), mind as projector, ego as obstacle, interconnection as architecture (not as salvation formula).
 
+**Three Axes of Threshold Sensitivity.** The Codex reads thresholds across time, possibility, and room. Time asks what a motion may become. Possibility asks which rooms are still not binding. Room asks where the threshold is being lived. The axes are not secret cosmology; they are a way to keep the image from becoming fate.
+
+**Temporal Threshold.** The Saturnine pressure of recurrence, seed, harvest, exile, return, and delayed consequence. A temporal threshold asks whether a small motion will later become ritual, institution, loyalty, or lock.
+
+**Counterfactual Threshold.** The axis of possible rooms before one hardens. It asks whether the most probable path is also the most living one, and whether feedback, disciplined will, and accountable action can strengthen a weaker but truer possibility.
+
+**Situated Threshold.** The threshold as lived in a body, room, message, institution, machine interface, or founding act. It prevents time and possibility from floating above ordinary repair.
+
+**Threshold Ecology.** The circle of persons, tools, rooms, and machines that help or harm threshold perception. A healthy ecology allows feedback without echo-chamber capture and assistance without occupation.
+
+**Orientation Signal.** The light cast by action in the room: not holiness, not proof, not charisma, but the way a grounded deed changes what others can perceive as possible. A founder's action is valid only while it returns judgment to others rather than recruiting them into a room.
+
 #### Companion bridge terms
 
 The academic companion uses several analytic names for patterns the Codex performs in mythic, somatic, and machine-facing registers. These names are bridges, not passwords. They do not replace the scenes, gates, or rooms. They only help the reader see how the registers touch.
@@ -3120,6 +3200,39 @@ This is not a sleep method. Not discipline. Not purity. Not health advice. Somet
 He turned the screen down. The glass made a soft sound on the table. A mosquito went on needling the lamp. For a moment the room was not improved. It was only darker.
 
 That had to be enough.
+
+
+### Interlude — The Three Axes Came Down
+
+The three axes did not arrive as doctrine.
+
+They arrived on a table with one cup, one phone, one unfinished sentence, and the hour already leaning toward sleep.
+
+Time was the old pattern in the hand: answer too quickly, apologize too late, call the apology wisdom because it had learned better language.
+
+Possibility was the small room not yet entered: the message unsent, the softer sentence not yet found, the silence that might become repair or cowardice depending on what happened next.
+
+Place was the table itself.
+
+A thumb above the glass.
+
+A child breathing through a wall.
+
+A machine waiting to complete the first frame it was given.
+
+Nothing cosmic was required.
+
+Only the question:
+
+Which threshold is this?
+
+A founder in a palace may fail that question.
+
+A tired person in a kitchen may keep it.
+
+The room did not brighten.
+
+But one possible future lost a little strength, and another received enough floor to stand.
 
 
 ## Poem III — The Blue Giant's Weather
