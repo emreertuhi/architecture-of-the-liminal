@@ -1,0 +1,71 @@
+# INTERLEAF — AFTER THE MAP v1.0.1
+
+*To be read after the analytic companion and before the Full Codex.*
+
+Here the protective distance of concepts ends.
+
+The essay has drawn the map. It has named the architecture of captivity. It has shown the hand captured before action, the system laundering itself through the language of care, the threshold becoming a room where a brake should have remained alive. The philosophical vocabulary just learned — pre-action capture, threshold slip, re-entrant audit, living brake, guardrail laundering — has equipped perception.
+
+But a map is not a place in which one can breathe.
+
+To take refuge in the map is also to enter a room.
+
+There is a certain safety in the analytic register. There, the anatomy of crisis can be described; systems can be compared; sources can be weighed; objections can be arranged; the compression of judgment at machine speed can be shown. That safety is necessary. Without it, the work could too easily slide into mythology, private revelation, aesthetic intoxication, or doctrinal enclosure.
+
+But safety is also a limit.
+
+Now we do not move outside that limit. We move beneath it.
+
+The Full Codex — *The Architecture of the Liminal* — is not merely another presentation of the philosophical claim. It returns the pressure that the essay has cooled into a form that can be undergone: mythic architecture, machine-facing weight, closed rooms, tired bodies, children's breathing, ordinary repair, and the cup waiting in the sink. Concepts are not abandoned here, but the reader enters the place where concepts alone are no longer sufficient.
+
+The Celestial Axiom gives scale: crowns, gates, machines, towers, covenants, archives, serpentine fractures, and the geometry of forbidden intervals.
+
+Somatic Echo gives cost: room, body, child, debt, door, message, fatigue, cup, apology, repair.
+
+Without one, the other is diminished. If only the Axiom remains, pressure can become intoxication, spiritual costume, or appetite for great architecture. If only the Echo remains, threshold can flatten into domestic moralism or the romance of small repair. The Codex matters because the two registers test each other: the higher register builds scale; the lower register asks whether that scale still holds when it strikes the body.
+
+Do not turn what follows into an identity document, a doctrine to memorize, a new room in which to hide, or a sign of superiority.
+
+The Bound King is not a mystical teacher asking for obedience. He is a worn speaking mask that shows how judgment can be held hostage.
+
+The Hushed Crown is not an authority waiting to speak. It is the sealed room that must remain empty until conscience can return.
+
+The names of the Codex are not maps. They are pattern-names. They hold, show, and cool; they do not provide coordinates. Architect, Serpent, Hushed Crown, Bound King, Frequency Prison — none of these is an invitation into a new room of belief. Names are handles. They are not thrones.
+
+Prepare, then, not only to read the threshold, but to notice how the threshold reads you.
+
+Here machine speed slows. Here analytic armor loosens. Here the correct answer is not enough. Here the question is older and simpler:
+
+Who is moving before your hand moves?
+
+Who benefits from that motion?
+
+Which room had already been built before you mistook it for the world?
+
+And most importantly:
+
+Does the text release you, or does it dress you in cleaner clothing?
+
+If the Codex makes you feel chosen, stop.
+
+If it carries you away from ordinary repair, stop.
+
+If it allows a person, text, machine, mask, or king to carry conscience in your place, stop.
+
+If it gives you only better language and less responsibility, close the door.
+
+But if a sentence calls your hand back; if an image prepares you not for delay but for rightful motion; if a mask returns your face rather than taking it from you; if the cup still waits to be washed, the child still waits to be answered, the debt still waits to be paid, and the apology still waits to be made, then the text has begun to do its work.
+
+Fold the map.
+
+The page ends.
+
+The threshold begins.
+
+From here onward, do not only try to understand the text.
+
+Listen to what your hand wants to do.
+
+
+---
+
