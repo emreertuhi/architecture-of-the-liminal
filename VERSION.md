@@ -1,13 +1,13 @@
 # Version
 
-This repository package is a **v14.3.3 public repository release**.
+Diptych release: v15.2.7
 
-## Included public texts
+Essay component: v15.2.7
 
-- **Full Codex:** *The Architecture of the Liminal: The Codex — The Anatomy of the Divide*, v14.0.
-- **Companion essay:** *Reconstructive Threshold Philosophy: Pre-Action Capture, Living Constraint, and Founder Entropy*, v14.3.3.
+Interleaf component: v1.0.1
 
-## DOI
+Full Codex component: v14.5.3
 
-- Zenodo archival DOI for this repository package: <https://doi.org/10.5281/zenodo.20547058>.
-- Previous archived public release: <https://doi.org/10.5281/zenodo.20533967>.
+Essay DOI: https://doi.org/10.5281/zenodo.20585126
+
+Diptych DOI: https://doi.org/10.5281/zenodo.20585132
