@@ -1,31 +1,17 @@
-# Reconstructive Threshold Philosophy and The Architecture of the Liminal
+# Architecture of the Liminal - v15.5.1
 
-A philosophical diptych by Emre Ertuhi.
+This publication package contains the archived v15.5.1 public release.
 
-This release contains:
+Essay DOI: `10.5281/zenodo.20632709`
+Diptych DOI: `10.5281/zenodo.20632729`
 
-- the analytic companion essay, *Reconstructive Threshold Philosophy: Pre-Action Capture, Living Constraint, and Founder Entropy* (Sections 1-15, v15.2.7);
-- the interleaf transition;
-- the literary-philosophical Codex, *The Architecture of the Liminal* (v14.5.3);
-- ledgers, source matrices, quality reports, and release metadata.
+Primary outputs:
 
-## PhilArchive deposit note
+- `essay/reconstructive_threshold_philosophy_v15_5_1.md` and `.pdf`
+- `diptych/diptych_v15_5_1.md` and `.pdf`
+- `interleaf/interleaf_after_the_map_v1_1.md` and `.pdf`
+- `codex/full_codex_the_architecture_of_the_liminal_v14_5_3.md` and `.pdf`
 
-This PhilArchive deposit contains the complete Diptych: the analytic companion essay, *Reconstructive Threshold Philosophy: Pre-Action Capture, Living Constraint, and Founder Entropy* (Sections 1-15, v15.2.7); the interleaf transition; and the literary-philosophical Codex, *The Architecture of the Liminal* (v14.5.3).
+v15.5.1 carries exactly two active repairs: the room/captured-room definition in Section 10 is made coherent, and the Section 3.1 triage example acknowledges Virginia Eubanks's documented empirical terrain. Appendix A, the termless bridge, Interleaf v1.1, and the Codex content are otherwise preserved.
 
-The work should be read as a philosophical diptych rather than as a conventional article alone. The first part develops the analytic framework; the interleaf marks the transition out of the map; the Codex carries the same threshold philosophy into its literary, somatic, and mythic register.
-
-For separate component files, version history, ledgers, source matrices, and the DOI-backed archival record, see the associated Zenodo and GitHub records.
-
-Associated Zenodo records:
-- Essay record: https://doi.org/10.5281/zenodo.20585126
-- Diptych record: https://doi.org/10.5281/zenodo.20585132
-
-## DOI records
-
-- Essay record: https://doi.org/10.5281/zenodo.20585126
-- Diptych record: https://doi.org/10.5281/zenodo.20585132
-
-## License
-
-CC BY-NC-ND 4.0. Public translations and other adaptations require separate permission.
+Every PDF has exactly one bottom-center page number. This is an archived citable release, not final philosophical closure.

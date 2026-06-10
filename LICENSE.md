@@ -1,5 +1,5 @@
 # License
 
-This work is released under CC BY-NC-ND 4.0.
+Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0).
 
-Public translations and other adaptations require separate permission.
+Public translations, adaptations, derivative editions, or commercial uses require separate permission from the author.

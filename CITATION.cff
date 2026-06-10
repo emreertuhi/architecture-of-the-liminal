@@ -1,11 +1,11 @@
 cff-version: 1.2.0
-message: "If you use this work, please cite it as below."
-title: "Reconstructive Threshold Philosophy and The Architecture of the Liminal: A Philosophical Diptych"
+title: "Reconstructive Threshold Philosophy: Pre-Action Capture, Living Constraint, and Founder Entropy"
+message: "Cite the Essay DOI 10.5281/zenodo.20632709. The related Diptych DOI is 10.5281/zenodo.20632729."
+type: article
 authors:
-  - family-names: "Ertuhi"
-    given-names: "Emre"
-version: "v15.2.7"
-date-released: "2026-06-08"
+  - family-names: Ertuhi
+    given-names: Emre
+version: "v15.5.1"
+date-released: "2026-06-10"
+doi: "10.5281/zenodo.20632709"
 license: "CC-BY-NC-ND-4.0"
-doi: "10.5281/zenodo.20585132"
-url: "https://github.com/emreertuhi/architecture-of-the-liminal"
