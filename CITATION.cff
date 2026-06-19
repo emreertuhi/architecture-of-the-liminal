@@ -1,15 +1,10 @@
 cff-version: 1.2.0
 title: "Reconstructive Threshold Philosophy: Pre-Action Capture, Living Constraint, and Founder Entropy"
-message: "Cite the Essay DOI for the academic essay and the Diptych DOI for the Diptych/Codex companion package."
-type: article
 authors:
   - family-names: Ertuhi
     given-names: Emre
-version: "v16.7.1"
-date-released: "2026-06-14"
-doi: "10.5281/zenodo.20683533"
-license: "CC-BY-NC-ND-4.0"
-identifiers:
-  - type: doi
-    value: "10.5281/zenodo.20683534"
-    description: "Related Diptych / companion package DOI"
+version: "v17.3.5"
+date-released: 2026-06-15
+doi: "10.5281/zenodo.20707957"
+url: "https://doi.org/10.5281/zenodo.20707957"
+message: "If citing the Diptych, use DOI 10.5281/zenodo.20707960."
