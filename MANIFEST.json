@@ -1,0 +1,110 @@
+{
+  "package": "architecture_of_the_liminal_v17_3_6_public_repo",
+  "created_utc": "2026-06-20T22:26:33.564216+00:00",
+  "doi_records": {
+    "atlas": "10.5281/zenodo.20778232",
+    "diptych": "10.5281/zenodo.20778233",
+    "essay": "10.5281/zenodo.20778234"
+  },
+  "files": [
+    {
+      "path": "CITATION.cff",
+      "bytes": 1450,
+      "sha256": "ec9d92bdff2186165b370222edc548bca6ab30b9e90498d3a56febe394fe1b17"
+    },
+    {
+      "path": "LICENSE.md",
+      "bytes": 739,
+      "sha256": "ba3b3622b2f7ce9ac6c15e42e57f2de3b340c774097b4e929bd8d381b1450f03"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3323,
+      "sha256": "b344caf60ad624c0a19578ae1e07b071e7883ea99ecc74c93da277ec09bd71ab"
+    },
+    {
+      "path": "assets/figure_1a_missing_third_v17_3_5.png",
+      "bytes": 240866,
+      "sha256": "13d086da1a6cf602f58113ad0a721f5edf17ec126ad9d0b0bf2e1ac1c0ad1211"
+    },
+    {
+      "path": "assets/figure_1b_binding_point_v17_3_5.png",
+      "bytes": 70970,
+      "sha256": "ddc5913632bfffbe37bbfe9fd065df1fc296c2500533fa8f1683b0bddf7e3648"
+    },
+    {
+      "path": "assets/figure_2_threshold_family_map_v17_3_5.png",
+      "bytes": 72860,
+      "sha256": "0e2fe542b1f395aa17f2dc4f043198b3d08bfd8271b8defb25e716b76dea09ff"
+    },
+    {
+      "path": "assets/figure_3_dynamic_frame_cycle_v17_3_5.png",
+      "bytes": 138177,
+      "sha256": "8f6d647bbb646712eae8046d809735c0f87a0d1981bfee7a4785e1838573c42e"
+    },
+    {
+      "path": "assets/figure_4_guardrail_laundering_flow_v17_3_5.png",
+      "bytes": 209659,
+      "sha256": "adfaef8fe77442ae35284a1dbdfb0e6b274b5283762342a4f4d92e880c1fa039"
+    },
+    {
+      "path": "assets/figure_5_distributed_binding_v17_3_5.png",
+      "bytes": 75654,
+      "sha256": "9037a206db07ceb179c89f1bc5b0f15817816de79110614b1d48983d3b35c034"
+    },
+    {
+      "path": "assets/figure_6_dtc_founder_entropy_bridge_v17_3_5.png",
+      "bytes": 63919,
+      "sha256": "9f7850c919c1a321809252a923436ba800784b92ed0d9420f754df4f0a334c54"
+    },
+    {
+      "path": "audits/atlas_no_contents_audit.json",
+      "bytes": 1558,
+      "sha256": "db217b2e5c201eff73951e6ee0971515156ee3a5abfdf42333d852cbc57b03c1"
+    },
+    {
+      "path": "audits/v17_3_6_with_atlas_audit.json",
+      "bytes": 1083,
+      "sha256": "e43a92e78e2ab6a9f324f0242d30d9a45e1decae0fa4bb90b0bc3175af154593"
+    },
+    {
+      "path": "diptych_v17_3_6_with_atlas.md",
+      "bytes": 880722,
+      "sha256": "7fe08b8ef901569e7623ad1d118987e1e76e8c0c2f22d2974a7b786a0ee8fb24"
+    },
+    {
+      "path": "diptych_v17_3_6_with_atlas.pdf",
+      "bytes": 1774896,
+      "sha256": "950731ec55020117d0ee196b40e4cb43126197c221f650a7e1d599dcd914cf70"
+    },
+    {
+      "path": "metadata/DOI_RECORDS.md",
+      "bytes": 216,
+      "sha256": "78f67e5e2adbc7d657e0dde78ce4d812239be166f9b1c89ec04c3b5a69a56cfc"
+    },
+    {
+      "path": "reconstructive_threshold_philosophy_concept_passport_atlas_v1_0.md",
+      "bytes": 144445,
+      "sha256": "b015e65fa77ca222a7eee24a340c22a7d57ec4b699bea7fc0d1eeb5de0d0942b"
+    },
+    {
+      "path": "reconstructive_threshold_philosophy_concept_passport_atlas_v1_0.pdf",
+      "bytes": 214676,
+      "sha256": "e4e9034d9e720c49056211afd3cbb684d3cff95a2a74dac5b26475071b26b3b3"
+    },
+    {
+      "path": "reconstructive_threshold_philosophy_v17_3_6_with_atlas.md",
+      "bytes": 452765,
+      "sha256": "95e4b779c85cb8101e622e621c5a7da70ef78034ea0d88c36fdb30b582862a5c"
+    },
+    {
+      "path": "reconstructive_threshold_philosophy_v17_3_6_with_atlas.pdf",
+      "bytes": 1333472,
+      "sha256": "8db76bc00d0e250f0512550283482b53c7a6810589a06fd5c0c02d897ef9cee3"
+    }
+  ],
+  "checks": {
+    "asset_links_expected_root_assets": true,
+    "license": "CC BY-NC-ND 4.0"
+  }
+}

@@ -1,10 +1,38 @@
 cff-version: 1.2.0
-title: "Reconstructive Threshold Philosophy: Pre-Action Capture, Living Constraint, and Founder Entropy"
+message: "If you use this work, please cite the relevant DOI record. For concept-level attribution, cite the Atlas DOI."
+title: "Architecture of the Liminal / Reconstructive Threshold Philosophy — v17.3.6 Public Repository"
 authors:
-  - family-names: Ertuhi
-    given-names: Emre
-version: "v17.3.5"
-date-released: 2026-06-15
-doi: "10.5281/zenodo.20707957"
-url: "https://doi.org/10.5281/zenodo.20707957"
-message: "If citing the Diptych, use DOI 10.5281/zenodo.20707960."
+  - family-names: "Ertuhi"
+    given-names: "Emre"
+version: "v17.3.6 / Atlas v1.0"
+date-released: "2026-06"
+license: "CC-BY-NC-ND-4.0"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.20778232"
+    description: "Reconstructive Threshold Philosophy: Concept Passport Atlas"
+  - type: doi
+    value: "10.5281/zenodo.20778234"
+    description: "Reconstructive Threshold Philosophy essay v17.3.6 with Atlas"
+  - type: doi
+    value: "10.5281/zenodo.20778233"
+    description: "Philosophical Diptych v17.3.6 with Atlas"
+references:
+  - type: report
+    title: "Reconstructive Threshold Philosophy: Concept Passport Atlas"
+    authors:
+      - family-names: "Ertuhi"
+        given-names: "Emre"
+    doi: "10.5281/zenodo.20778232"
+  - type: report
+    title: "Reconstructive Threshold Philosophy: Pre-Action Capture, Living Constraint, and Founder Entropy"
+    authors:
+      - family-names: "Ertuhi"
+        given-names: "Emre"
+    doi: "10.5281/zenodo.20778234"
+  - type: report
+    title: "Reconstructive Threshold Philosophy and The Architecture of the Liminal: A Philosophical Diptych"
+    authors:
+      - family-names: "Ertuhi"
+        given-names: "Emre"
+    doi: "10.5281/zenodo.20778233"
